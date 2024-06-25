@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 #! pip install html-table-parser-python3
 import utils
 
@@ -28,10 +25,9 @@ session = boto3.Session(
 # Create an S3 client using the boto3 session above
 s3 = session.client('s3')
 
-# Replace with your bucket name and object key
-bucket_name = 'nsw-food-authority-name-and-shame'
-object_key = 'dataset.csv'
-version_id = ''
+bucket_name='nsw-food-authority-name-and-shame'
+object_key='dataset.csv'
+version_id=""
 
 if version_id =='':
 # Retrieve object from S3
@@ -57,6 +53,8 @@ print("3. Comparing website to dataset...")
 #compare the previous notice_numbers to the current ones
 #an old_notice_number is one which, as of last scrape, wasn't yet been removed from website
 old_notice_numbers = prev_df[prev_df['date_removed_from_website'].isnull()]['notice_number'].tolist()
+#prev_df['date_removed_from_website']="" #DELETE
+#old_notice_numbers = prev_df[prev_df['date_removed_from_website']==""]['notice_number'].tolist()#DELETE
 
 #current notice numbers are those which appear on the website today
 current_notice_numbers = notice_df['notice_number'].tolist()
