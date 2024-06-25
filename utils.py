@@ -23,7 +23,7 @@ def url_get_contents(url):
 def scrape_tables(url, page_num=0):
     df = pd.DataFrame()
     while True:
-        print("processing page {} (index: {})...".format(page_num+1, page_num))
+        print("   processing page {} (index: {})...".format(page_num+1, page_num))
         this_page = url + "?page=" + str(page_num)
         try:
             xhtml = url_get_contents(url=this_page).decode('utf-8')
@@ -38,9 +38,9 @@ def scrape_tables(url, page_num=0):
             # Now finally obtaining the data of
             # the table required
             if len(p.tables)==0:
-                print("no tables on page {} (index: {})\n".format(page_num+1, page_num))
+                print("   no tables on page {} (index: {})\n".format(page_num+1, page_num))
             elif len(p.tables)>1:
-                print("More than 1 table found\n")
+                print("   More than 1 table found\n")
 
             # converting the parsed data to
             # dataframe
@@ -184,5 +184,18 @@ def add_timestamp(df):
     formatted_utc = now_utc.strftime("%Y-%m-%d %H:%M:%S")
 
     df['scrape_timestamp_utc'] = formatted_utc
+    
+    return df
+
+def handle_removed_notices(df, removed):
+    #ensure are of type str
+    removed = [str(x) for x in removed]
+    
+    from datetime import date
+    date_string = date.today().strftime("%Y-%m-%d")
+    
+    #update the dataframe with the date it was removed from website
+    for r in removed:
+        df.loc[df['notice_number']==r, 'date_removed_from_website'] = date_string
     
     return df
