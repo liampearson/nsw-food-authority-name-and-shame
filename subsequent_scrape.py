@@ -27,6 +27,7 @@ s3 = session.client('s3')
 bucket_name='nsw-food-authority-name-and-shame'
 object_key='dataset.csv'
 version_id=""
+#version_id="s8Xu9vJ70ETBEbSMvjT9JSKYIuGunpyr" #DELETE
 
 if version_id =='':
 # Retrieve object from S3
@@ -110,23 +111,30 @@ else:
 print(len(removed_notice_numbers)) #dev
 print(len(new_notice_numbers)) #dev
 
-if len(removed_notice_numbers)>0 or len(new_notice_numbers) >0:
+need_to_upload=False
+
+if len(new_notice_numbers)>0:
+    need_to_upload=True
+    # Concatenate (append) df2 below df1
+    result = pd.concat([prev_df, notice_df], ignore_index=True)  # Reset index for clean numbering
+
+if len(removed_notice_numbers)>0:
+    need_to_upload=True
+    
+if need_to_upload:
     #overwrite dataset
-    print("There have been changes to the dataset")
     print("5. Begin Upload back to S3...")
-    print("   Dataset Shape:{}".format(result.shape))
 
     # Reuse the bucket name but change object key
     #object_key = 'test.csv'
     print("This will write {} to bucket:{}".format(object_key, bucket_name))
     
-    # Concatenate (append) df2 below df1
-    result = pd.concat([prev_df, notice_df], ignore_index=True)  # Reset index for clean numbering
     result.sort_values(by='published_date', inplace=True)
 
     # Convert DataFrame to CSV string
     csv_buffer = io.StringIO()
     result.to_csv(csv_buffer, index=False)  # Set index=False if you don't want row numbers
+    print("   Dataset Shape:{}".format(result.shape))
 
     # Upload to S3
     s3.put_object(
