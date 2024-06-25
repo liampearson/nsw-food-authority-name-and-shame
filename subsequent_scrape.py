@@ -18,13 +18,12 @@ load_dotenv()
 CLIENT_ID = os.environ.get("AWS_ACCESS_KEY_ID")
 CLIENT_SECRET = os.environ.get("AWS_SECRET_ACCESS_KEY") 
 
-session = boto3.Session(
-    aws_access_key_id=CLIENT_ID,
-    aws_secret_access_key=CLIENT_SECRET)
-
-# Create an S3 client using the boto3 session above
+#setup an s3 session for downloading and uploading file to s3
+session = boto3.Session(aws_access_key_id=CLIENT_ID,
+                        aws_secret_access_key=CLIENT_SECRET)
 s3 = session.client('s3')
 
+#declare the object and from what bucket the data will come from
 bucket_name='nsw-food-authority-name-and-shame'
 object_key='dataset.csv'
 version_id=""
@@ -41,9 +40,10 @@ prev_df = pd.read_csv(io.BytesIO(obj['Body'].read()))
 prev_df['notice_number'] = prev_df['notice_number'].astype(str) #convert to string for comparison
 print("   Complete. Shape: {}\n".format(prev_df.shape))
 
+
 print("2. Get all notices currently on the foodauthority website...")
 #the parent page we are going to scrape
-url = "https://www.foodauthority.nsw.gov.au/offences/penalty-notices"#?page=15
+url = "https://www.foodauthority.nsw.gov.au/offences/penalty-notices"
 print("   scraping data from: {}".format(url))
 
 #scrape each of the pages and get the table of notices
