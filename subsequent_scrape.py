@@ -31,12 +31,18 @@ s3 = session.client('s3')
 # Replace with your bucket name and object key
 bucket_name = 'nsw-food-authority-name-and-shame'
 object_key = 'dataset.csv'
+version_id = ''
 
+if version_id =='':
 # Retrieve object from S3
-obj = s3.get_object(Bucket=bucket_name, Key=object_key)
+    obj = s3.get_object(Bucket=bucket_name, Key=object_key)
+else:
+    print("Downloading specific version: {}".format(version_id))
+    obj = s3.get_object(Bucket=bucket_name, Key=object_key, VersionId = version_id)
 
 # Read the object's content into a Pandas DataFrame
 prev_df = pd.read_csv(io.BytesIO(obj['Body'].read()))
+prev_df['notice_number'] = prev_df['notice_number'].astype(str) #convert to string for comparison
 print("   Complete. Shape: {}\n".format(prev_df.shape))
 
 print("2. Get all notices currently on the foodauthority website...")
@@ -47,30 +53,20 @@ print("   scraping data from: {}".format(url))
 #scrape each of the pages and get the table of notices
 notice_df = utils.scrape_tables(url)
 
-
-
-#get current dataset
-#filename = "nsw_food_auth_name_and_shame.csv"
-#print("reading in dataset...")
-#prev_df = pd.read_csv(filename)
-
-#Determine the new notice_numbers
-prev_df['notice_number'] = prev_df['notice_number'].astype(str) #convert column to string
-prev_df['date_removed_from_website']='' #once off DELETE
-
 print("3. Comparing website to dataset...")
 #compare the previous notice_numbers to the current ones
-old_notice_numbers = prev_df['notice_number'].tolist()
+#an old_notice_number is one which, as of last scrape, wasn't yet been removed from website
+old_notice_numbers = prev_df[prev_df['date_removed_from_website'].isnull()]['notice_number'].tolist()
+
+#current notice numbers are those which appear on the website today
 current_notice_numbers = notice_df['notice_number'].tolist()
-print(type(old_notice_numbers[0])) #dev - unsure why date-removed is not being updated
-print(type(current_notice_numbers[0])) #dev - unsure why date-removed is not being updated
 
 new_notice_numbers = set(current_notice_numbers) - set(old_notice_numbers)
 removed_notice_numbers = set(old_notice_numbers) - set(current_notice_numbers)
 
 #check if any removed notice numbers
 if len(removed_notice_numbers)==0:
-    print("   no notice_numbers removed")
+    print("   0 notice_numbers removed")
     
 else:
     print("   {} notice_numbers removed".format(len(removed_notice_numbers)))
@@ -130,8 +126,6 @@ if len(removed_notice_numbers)>0 or len(new_notice_numbers) >0:
     result = pd.concat([prev_df, notice_df], ignore_index=True)  # Reset index for clean numbering
     result.sort_values(by='published_date', inplace=True)
 
-    #result.to_csv('dataset.csv', index=False)
-    #######
     # Convert DataFrame to CSV string
     csv_buffer = io.StringIO()
     result.to_csv(csv_buffer, index=False)  # Set index=False if you don't want row numbers
@@ -144,6 +138,8 @@ if len(removed_notice_numbers)>0 or len(new_notice_numbers) >0:
     )
 
     print("object pushed to S3")
-#####
+
+else:
+    print("no changes to website - dataset will not be updated at this time")
 
 print("END SCRIPT.")
