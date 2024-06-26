@@ -95,22 +95,27 @@ def get_penalty_notice(notice_number):
 
     record = {}
     for row in data.find_all('div'):
-        # each div tag has a label and item
+        # each div tag has a label and then an item nested within that
         try:
             if 'field__label' in row['class']:
                 label = row.text
-            if 'field__item' in row['class']:
-                item = row.text
-                record[label] = item
-        except: # the published dates are one level lower
-            for e in row.div.find_all('div'):
-                if 'field-content' in e['class']:
-                    # split the string so as to extract the dates
-                    dates = e.text
-                    dates = dates.split("first published ")[1]
-                    published_date, updated_date = dates.split(", last updated ")
-                    record['published_date'] = published_date
-                    record['updated_date'] = updated_date.split(".")[0]
+                #print("label:",label) #dev
+                child = row.find_next('div')
+
+                if 'field__item' in child['class']:
+                    #print("child:",child.text) #dev
+                    item=child.text
+                    record[label] = item
+            if 'field-content' in row['class']:
+                #print("FOUND!!") #dev
+                # split the string so as to extract the dates
+                dates = row.text
+                dates = dates.split("first published ")[1]
+                published_date, updated_date = dates.split(", last updated ")
+                record['published_date'] = published_date
+                record['updated_date'] = updated_date.split(".")[0]
+        except:
+            pass
     
     return record
 
