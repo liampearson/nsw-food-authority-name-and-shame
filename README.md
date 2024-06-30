@@ -12,11 +12,18 @@ How to get a copy of this repo up and running to conduct your own scrapes and an
 
 1. Open your terminal and navigate to where you want the code stored
 2. Clone the repo
+   
 `git clone https://github.com/liampearson/nsw-food-authority-name-and-shame.git`
-3. (Optional) Create a new virtual environment
+
+5. (Optional) Create a new virtual environment
+   
 `python3 -m venv venv`
+
 and activate it
+
 `source venv/bin/activate`
-4. Install required packages
+
+7. Install required packages
+8. 
 `pip install -r requirements.txt`
 
