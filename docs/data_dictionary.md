@@ -34,7 +34,9 @@ This document provides descriptions for the data elements found within the proje
 ---
 
 **Data Source**
+
 List of Penalties: https://www.foodauthority.nsw.gov.au/offences/penalty-notices
+
 Details of each penalty: https://www.foodauthority.nsw.gov.au/offences/penalty-notices/<notice_number>
 
 **Data Processing Steps**
