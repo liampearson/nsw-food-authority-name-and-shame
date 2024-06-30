@@ -3,7 +3,7 @@
 
 * I have no affiliation with the NSW Food Authority or any agency under the NSW Department of Primary Industries.
 * This project is strictly for informational purposes and does not constitute official advice or endorsement from any government body.
-* All data used in this project was sourced exclusively from publicly available information at https://www.foodauthority.nsw.gov.au/offences
+* All data used in this project was sourced exclusively from publicly available information [here](https://www.foodauthority.nsw.gov.au/offences).
 ---
 [Installation](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/README.md#installation) • [Analysis](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/README.md#analysis) • [Dataset](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/docs/data_dictionary.md)
 
