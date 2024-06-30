@@ -15,15 +15,11 @@ How to get a copy of this repo up and running to conduct your own scrapes and an
    
 `git clone https://github.com/liampearson/nsw-food-authority-name-and-shame.git`
 
-5. (Optional) Create a new virtual environment
+3. (Optional) Create a new virtual environment
    
-`python3 -m venv venv`
+`python3 -m venv venv`  and activate it  `source venv/bin/activate`
 
-and activate it
+4. Install required packages
 
-`source venv/bin/activate`
-
-7. Install required packages
-8. 
 `pip install -r requirements.txt`
 
