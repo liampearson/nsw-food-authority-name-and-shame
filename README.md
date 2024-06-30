@@ -5,5 +5,5 @@
 * This project is strictly for informational purposes and does not constitute official advice or endorsement from any government body.
 * All data used in this project was sourced exclusively from publicly available information at https://www.foodauthority.nsw.gov.au/offences
 ---
-For details on the dataset, please refer to the [data dictionary]([https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/docs/data_dictionary.md])
+For details on the dataset, please refer to the [data dictionary](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/docs/data_dictionary.md).
 
