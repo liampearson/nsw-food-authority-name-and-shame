@@ -5,7 +5,7 @@
 * This project is strictly for informational purposes and does not constitute official advice or endorsement from any government body.
 * All data used in this project was sourced exclusively from publicly available information [here](https://www.foodauthority.nsw.gov.au/offences).
 ---
-[Installation](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/README.md#installation) • [Analysis](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/README.md#analysis) • [Dataset](https://github.com/liampearson/nsw-food-authority-name-and-shame/tree/main?tab=readme-ov-file#dataset)
+[Installation](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/README.md#installation) • [Dataset](https://github.com/liampearson/nsw-food-authority-name-and-shame/tree/main?tab=readme-ov-file#dataset) • [Analysis](https://github.com/liampearson/nsw-food-authority-name-and-shame/blob/main/README.md#analysis) 
 
 
 ## Installation
