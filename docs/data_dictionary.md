@@ -10,11 +10,8 @@ This document provides descriptions for the data elements found within the proje
 | trade_name   | string    |.....|
 | suburb        | string    |.....|
 | council   | string  | ..... |
-| date   | datetime  | ..... |
-| party_served   | string  | ..... |
 | party_served_trade_name   | string  | ..... |
 | address   | string  | ..... |
-| city   | string  | ..... |
 | postcode   | string  | ..... |
 | date_alleged_offence   | datetime  | ..... |
 | offence_code   | string  | ..... |
