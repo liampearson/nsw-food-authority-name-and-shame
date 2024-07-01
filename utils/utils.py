@@ -158,6 +158,9 @@ def cleanup_dataframe(df):
     
     #Drop 'council' column in one of the tables as appears in both
     df.drop('council', axis=1, inplace=True)
+
+    #Change council to uppercase
+    df['council'] = df['council'].str.upper()
     
     print("Cleanup Complete\n")
     
