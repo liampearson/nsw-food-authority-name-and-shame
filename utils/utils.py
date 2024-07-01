@@ -5,6 +5,7 @@ import urllib.request # Library for opening url and creating
 from pprint import pprint # pretty-print python data structures
 from html_table_parser.parser import HTMLTableParser # for parsing all the tables present on the website
 from datetime import datetime, timezone
+import numpy as np
 
 # Opens a website and read its
 # binary contents (HTTP Response Body)
@@ -61,10 +62,14 @@ def scrape_tables(url, page_num=0):
             print("stopped at page {} (index: {})".format(page_num+1, page_num))
             
     #adjust column names and convert to lowercase
-    df.rename(columns={"Date  Sort ascending": "Date"}, inplace=True)
+    #df.rename(columns={"Date  Sort ascending": "Date"}, inplace=True)
+    #df['date'] = pd.to_datetime(df['date'], errors='coerce').dt.date
+    
+    # 'date' (fka Date  Sort ascending) same as date_alleged_offence, so drop it
+    df.drop('Date  Sort ascending', axis=1, inplace=True)
     df.columns = df.columns.str.lower()
     df.columns = df.columns.str.replace(' ', '_')
-    df['date'] = pd.to_datetime(df['date'], errors='coerce').dt.date
+
 
     #check only unique numbers
     if not len(df['notice_number'].unique()) == len(df):
@@ -126,7 +131,6 @@ def cleanup_dataframe(df):
     rename_cols['Penalty notice number']='notice_number'
     rename_cols['Party served - Trade name']='party_served_trade_name'
     rename_cols['Address - Street']='address'
-    rename_cols['Address - City']='city'
     rename_cols['Address - Postal code']='postcode'
     rename_cols['Council']='council'
     rename_cols['Date of alleged offence']='date_alleged_offence'
@@ -144,6 +148,11 @@ def cleanup_dataframe(df):
     #Rename certain columns using the rename_cols dict
     df.rename(columns=rename_cols, inplace=True)
 
+    #check for party_served_given_name
+    #its rarely provided so if a new batch has no given_names, the column won't be created
+    if 'party_served_given_name' not in df.columns:
+        df['party_served_given_name']=np.nan #add in as empty column
+
     #remove new line char
     df['date_alleged_offence'] = df['date_alleged_offence'].str.strip()
     df['penalty_date_served'] = df['penalty_date_served'].str.strip()
@@ -151,16 +160,24 @@ def cleanup_dataframe(df):
     #remove dollar sign
     df['penalty_amount'] = df['penalty_amount'].str.replace('$','', regex=False).astype(float)
 
+    #convert dates to datetime
     df['date_alleged_offence'] = pd.to_datetime(df['date_alleged_offence'], errors='coerce').dt.date
     df['penalty_date_served'] = pd.to_datetime(df['penalty_date_served'], errors='coerce').dt.date
     df['published_date'] = pd.to_datetime(df['published_date'], errors='coerce').dt.date
     df['updated_date'] = pd.to_datetime(df['updated_date'], errors='coerce').dt.date
-    
-    #Drop 'council' column in one of the tables as appears in both
-    df.drop('council', axis=1, inplace=True)
 
-    #Change council to uppercase
-    df['council'] = df['council'].str.upper()
+    #Drop 'council' column in one of the tables as appears in both the notices and penalites pages
+    df.drop('council', axis=1, inplace=True)
+    #drop duplicate column; 'Address - City' same as 'suburb
+    df.drop('Address - City', axis=1, inplace=True)
+
+    #feature engineer the names or company names
+    df['party_served_surname'] = ''
+    
+    # if a given name is provided, then impute surname from party_served_surname_company
+    df.loc[~df['party_served_given_name'].isnull(), 'party_served_surname'] = df['party_served_surname_company']
+    df.loc[~df['party_served_given_name'].isnull(), 'party_served_surname_company'] = "" #remove any surnames
+    df.rename(columns={"party_served_surname_company":"party_served_company"}, inplace=True) #rename column
     
     print("Cleanup Complete\n")
     
