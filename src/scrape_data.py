@@ -18,7 +18,7 @@ print(sys.version)
 # Libraries
 #import sys
 #sys.path.append('../utils')  # For notebooks
-import utils 
+#import utils 
 import pandas as pd
 import numpy as np
 #import boto3
@@ -33,6 +33,7 @@ script_dir = os.path.dirname(__file__)
 # Add the src directory to the Python path
 #sys.path.append(os.path.join(script_dir, '../src'))
 print(os.path.join(script_dir, '../src'))
+#import utils 
 
 # ## 1. Get Existing Data from Github
 # 
