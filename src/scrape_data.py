@@ -16,8 +16,8 @@ print(sys.version)
 
 
 # Libraries
-import sys
-sys.path.append('../utils')  # For notebooks
+#import sys
+#sys.path.append('../utils')  # For notebooks
 import utils 
 import pandas as pd
 import numpy as np
@@ -27,6 +27,12 @@ import io
 from dotenv import load_dotenv #for loading env variables
 from github import Github #for pushing data to Github
 
+# Get the directory of the current script
+script_dir = os.path.dirname(__file__)
+
+# Add the src directory to the Python path
+#sys.path.append(os.path.join(script_dir, '../src'))
+print(os.path.join(script_dir, '../src'))
 
 # ## 1. Get Existing Data from Github
 # 
