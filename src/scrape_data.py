@@ -30,10 +30,11 @@ from github import Github #for pushing data to Github
 # Get the directory of the current script
 script_dir = os.path.dirname(__file__)
 
-# Add the src directory to the Python path
-#sys.path.append(os.path.join(script_dir, '../src'))
-print(os.path.join(script_dir, '../src'))
-#import utils 
+# Add the script's directory to the Python path
+sys.path.append(script_dir)
+
+# Now you can import utils
+import utils
 
 # ## 1. Get Existing Data from Github
 # 
