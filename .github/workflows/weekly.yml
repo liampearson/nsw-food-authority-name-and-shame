@@ -1,8 +1,7 @@
 name: Run Script Weekly
 
 on:
-  schedule:
-    - cron: '0 4 * * 2'  # This cron expression schedules the workflow to run every Tuesday at 4am (UTC)
+  workflow_dispatch:
 
 jobs:
   run-script:
