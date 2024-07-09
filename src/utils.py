@@ -31,14 +31,14 @@ def scrape_tables(url, page_num=0):
         try:
             print("debug3")
             xhtml = url_get_contents(url=this_page).decode('utf-8')
-
+            print("debug4")
             # Defining the HTMLTableParser object
             p = HTMLTableParser()
-
+            
             # feeding the html contents in the
             # HTMLTableParser object
             p.feed(xhtml)
-
+            print("debug5")
             # Now finally obtaining the data of
             # the table required
             if len(p.tables)==0:
@@ -48,26 +48,27 @@ def scrape_tables(url, page_num=0):
 
             # converting the parsed data to
             # dataframe
-            print("debug4")
+            print("debug6")
             temp = pd.DataFrame(p.tables[0])
-            print("debug5")
-
+            
+            print("debug7")
             #set headers as values in first row
             new_header = temp.iloc[0] #grab the first row for the header
             temp = temp[1:] #take the data less the header row
             temp.columns = new_header #set the header row as the df header
-            print("debug6")
+            
 
             #df = df.append(temp)
             df = pd.concat([df, temp], ignore_index=True)
 
             page_num+=1
-            print("debug7")
+            
 
         except:
             print("debug8")
-            break
             print("stopped at page {} (index: {})".format(page_num+1, page_num))
+            break
+            
             
     #adjust column names and convert to lowercase
     #df.rename(columns={"Date  Sort ascending": "Date"}, inplace=True)
