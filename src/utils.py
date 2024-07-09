@@ -25,8 +25,11 @@ def scrape_tables(url, page_num=0):
     df = pd.DataFrame()
     while True:
         print("   processing page {} (index: {})...".format(page_num+1, page_num))
+        print("debug1")
         this_page = url + "?page=" + str(page_num)
+        print("debug2")
         try:
+            print("debug3")
             xhtml = url_get_contents(url=this_page).decode('utf-8')
 
             # Defining the HTMLTableParser object
@@ -45,28 +48,33 @@ def scrape_tables(url, page_num=0):
 
             # converting the parsed data to
             # dataframe
+            print("debug4")
             temp = pd.DataFrame(p.tables[0])
+            print("debug5")
 
             #set headers as values in first row
             new_header = temp.iloc[0] #grab the first row for the header
             temp = temp[1:] #take the data less the header row
             temp.columns = new_header #set the header row as the df header
+            print("debug6")
 
             #df = df.append(temp)
             df = pd.concat([df, temp], ignore_index=True)
 
             page_num+=1
+            print("debug7")
 
         except:
+            print("debug8")
             break
             print("stopped at page {} (index: {})".format(page_num+1, page_num))
             
     #adjust column names and convert to lowercase
     #df.rename(columns={"Date  Sort ascending": "Date"}, inplace=True)
     #df['date'] = pd.to_datetime(df['date'], errors='coerce').dt.date
-    
     # 'date' (fka Date  Sort ascending) same as date_alleged_offence, so drop it
-    print(df.columns) #debugging
+    print("debug9")
+    print("columns:",df.columns) #debugging
     df.drop('Date  Sort ascending', axis=1, inplace=True)
     df.columns = df.columns.str.lower()
     df.columns = df.columns.str.replace(' ', '_')
