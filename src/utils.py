@@ -66,6 +66,7 @@ def scrape_tables(url, page_num=0):
     #df['date'] = pd.to_datetime(df['date'], errors='coerce').dt.date
     
     # 'date' (fka Date  Sort ascending) same as date_alleged_offence, so drop it
+    print(df.columns) #debugging
     df.drop('Date  Sort ascending', axis=1, inplace=True)
     df.columns = df.columns.str.lower()
     df.columns = df.columns.str.replace(' ', '_')
