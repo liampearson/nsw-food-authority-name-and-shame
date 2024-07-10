@@ -1,7 +1,8 @@
 import pandas as pd
 import requests # may not run on online IDE 
 from bs4 import BeautifulSoup 
-import urllib.request # Library for opening url and creating 
+import urllib.request # Library for opening url and creating
+from urllib.error import URLError, HTTPError
 from pprint import pprint # pretty-print python data structures
 from html_table_parser.parser import HTMLTableParser # for parsing all the tables present on the website
 from datetime import datetime, timezone
