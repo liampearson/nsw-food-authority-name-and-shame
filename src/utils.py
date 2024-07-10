@@ -13,10 +13,12 @@ def url_get_contents(url):
 
     # Opens a website and read its
     # binary contents (HTTP Response Body)
-
+    print("debug3a")
     #making request to the website
     req = urllib.request.Request(url=url)
+    print("debug3b")
     f = urllib.request.urlopen(req)
+    print("debug3c")
 
     #reading contents of the website
     return f.read()
