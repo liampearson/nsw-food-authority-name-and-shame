@@ -17,12 +17,23 @@ def url_get_contents(url):
     print("debug3a")
     #making request to the website
     req = urllib.request.Request(url=url)
-    print("debug3b")
-    f = urllib.request.urlopen(req)
+    #print("debug3b")
+    #f = urllib.request.urlopen(req)
     print("debug3c")
+    try:
+        with urllib.request.urlopen(req) as response:
+            html = response.read()
+    # Process the fetched HTML content here...
+    except HTTPError as e:
+        print(f"HTTP Error: {e.code} - {e.reason}")  # Print the HTTP error code and reason
+    except URLError as e:
+        print(f"URL Error: {e.reason}")              # Print the underlying URL error reason
+    except Exception as e:
+        print(f"An error occurred: {e}")              # Catch any other unexpected errors
 
     #reading contents of the website
-    return f.read()
+    #return f.read()
+    return html
 
 def scrape_tables(url, page_num=0):
     df = pd.DataFrame()
