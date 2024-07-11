@@ -43,6 +43,12 @@ import utils
 # #### Get access keys and read from Github
 
 # In[2]:
+#####################debugging
+notice_number = '3164613349'
+record = utils.get_penalty_notice(notice_number)
+print(record)
+print("Complete\n")
+#############################
 
 
 # Load the environment variables from .env
@@ -128,9 +134,6 @@ print("{} notice_numbers added".format(len(new_notice_numbers)))
 # if **a notice was removed**
 # * update the `date_removed_from_website` field in the dataset
 # 
-
-# In[5]:
-
 
 #check if notice numbers were removed
 if len(removed_notice_numbers)==0:
