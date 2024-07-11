@@ -26,16 +26,15 @@ except requests.exceptions.RequestException as e:
 # #the parent page we are going to scrape
 # url = "https://www.foodauthority.nsw.gov.au/offences/penalty-notices"
 
-# #making request to the website
-# req = urllib.request.Request(url=url)
-# try:
-#     with urllib.request.urlopen(req) as response:
-#         html = response.read()
-# # Process the fetched HTML content here...
-# except HTTPError as e:
-#     print(f"HTTP Error: {e.code} - {e.reason}")  # Print the HTTP error code and reason
-# except URLError as e:
-#     print(f"URL Error: {e.reason}")              # Print the underlying URL error reason
-# except Exception as e:
-#     print(f"An error occurred: {e}")              # Catch any other unexpected errors
+try:
+    with urllib.request.urlopen(req) as response:
+        html = response.read()
+# Process the fetched HTML content here...
+except HTTPError as e:
+    print(f"HTTP Error: {e.code} - {e.reason}")  # Print the HTTP error code and reason
+except URLError as e:
+    print(f"URL Error: {e.reason}")              # Print the underlying URL error reason
+except Exception as e:
+    print(f"An error occurred: {e}")              # Catch any other unexpected errors
+
 
