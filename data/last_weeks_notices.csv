@@ -1,27 +1,36 @@
 published_date,council,trade_name,suburb,address,penalty_amount,offence_circumstances,offence_code
-2024-07-16,BAYSIDE,KING FRUIT MARKET,KINGSGROVE,268 KINGSGROVE ROAD,440,Fail to notify appropriate enforcement agency before business is conducted - previous warnings given,11367
-2024-07-16,BEGA VALLEY,SOUTH COAST MEATS,EDEN,181-183 IMLAY STREET,1320,Fail to comply with the requirements of a food safety scheme - microbiological testing was not carried out,11369
-2024-07-16,BEGA VALLEY,SOUTH COAST MEATS,EDEN,181-183 IMLAY STREET,1320,Fail to comply with the requirements of a food safety scheme - microbiological testing was not carried out,11369
-2024-07-16,BLACKTOWN,DE HAWKERS,BLACKTOWN,17 PATRICK STREET,880,"Fail to maintain the premises, and all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-07-16,BURWOOD,FISH BARREL,BURWOOD,"SHOP 4, 39 BELMORE STREET",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-07-16,BURWOOD,FISH BARREL,BURWOOD,"SHOP 4, 39 BELMORE STREET",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-07-16,BURWOOD,FISH BARREL,BURWOOD,"SHOP 4, 39 BELMORE STREET",880,Fail to have a temperature measuring device at the premises where potentially hazardous food is handled,11339
-2024-07-16,BYRON,THE LARDER,BYRON BAY,"UNIT 1, 12 BAYSHORE DRIVE",440,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11338
-2024-07-16,BYRON,YAMAN,BYRON BAY,16 BAYSHORE DRIVE,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-07-16,CAMPBELLTOWN,SWEET FLEUR PASTRIES PTY LTD,CAMPBELLTOWN,1 CARBERRY LANE,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-07-16,CAMPBELLTOWN,SWEET FLEUR PASTRIES PTY LTD,CAMPBELLTOWN,1 CARBERRY LANE,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-07-16,CAMPBELLTOWN,SWEET FLEUR PASTRIES PTY LTD,CAMPBELLTOWN,1 CARBERRY LANE,880,Fail to take all practicable measures to prevent pests entering the food premises,11339
-2024-07-16,CAMPBELLTOWN,SWEET FLEUR PASTRIES PTY LTD,CAMPBELLTOWN,1 CARBERRY LANE,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
-2024-07-16,CAMPBELLTOWN,SOUTH PACIFIC TRADING,MINTO,"UNITS 3 & 4, 11 SWAFFHAM ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-07-16,CAMPBELLTOWN,SOUTH PACIFIC TRADING,MINTO,"UNITS 3 & 4, 11 SWAFFHAM ROAD",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-07-16,CAMPBELLTOWN,SOUTH PACIFIC TRADING,MINTO,"UNITS 3 & 4, 11 SWAFFHAM ROAD",880,Fail to maintain at or near each hand washing facility a supply of soap and single use towels - and fail to ensure it is only used for washing hands,11339
-2024-07-16,CANTERBURY-BANKSTOWN,MALAYSIA SMALL CHILLI RESTAURANT,CAMPSIE,148 BEAMISH STREET,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-07-16,CANTERBURY-BANKSTOWN,KOHINOOR DECCAN,LAKEMBA,SHOP 1 / 188 HALDON STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
-2024-07-16,CANTERBURY-BANKSTOWN,KOHINOOR DECCAN,LAKEMBA,SHOP 1 / 188 HALDON STREET,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2024-07-16,CITY OF PARRAMATTA,HARABHARA,HARRIS PARK,56 HARRIS STREET,880,Fail to take all practicable measures to ensure all people on the food premises of the food business do not contaminate food,11339
-2024-07-16,CITY OF PARRAMATTA,COLORS OF INDIA,PARRAMATTA,37 WANDSWORTH STREET,880,Fail to take all practicable measures to ensure all people on the food premises of the food business do not contaminate food,11339
-2024-07-16,CUMBERLAND,SYED HALAL MEATS,MERRYLANDS,114-116 MERRYLANDS ROAD,880,Sale of food found to contain illegal preservative (sulphur dioxide) - Best Beef Mince,11341
-2024-07-16,NORTH SYDNEY,LITTLE GREECE,NORTH SYDNEY,SHOP 5 36 BLUE STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-07-16,RYDE,PERSEPOLIS BUTCHERY (RYDE),RYDE,32A CHURCH STREET,880,Sale of food found to contain illegal preservative (sulphur dioxide) - Best Mince,11341
-2024-07-16,RYDE,PERSEPOLIS BUTCHERY (RYDE),RYDE,32A CHURCH STREET,880,Sale of food found to contain illegal preservative (sulphur dioxide) - Beef Mince,11341
-2024-07-16,SUTHERLAND,MIRANDA HOTEL,MIRANDA,582 KINGSWAY,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2024-07-23,BLACKTOWN,MITHAI JUNCTION,BLACKTOWN,"UNIT 3, 4 CARNEGIE PLACE",880,"Fail to maintain the premises, and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,BLACKTOWN,MITHAI JUNCTION,BLACKTOWN,"UNIT 3, 4 CARNEGIE PLACE",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
+2024-07-23,BLACKTOWN,MITHAI JUNCTION,BLACKTOWN,"UNIT 3, 4 CARNEGIE PLACE",880,"Fail to maintain at or near each hand washing facility a supply of - soap, single use towels",11339
+2024-07-23,BLACKTOWN,MITHAI JUNCTION,BLACKTOWN,"UNIT 3, 4 CARNEGIE PLACE",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - and prevent pests from entering,11339
+2024-07-23,BLACKTOWN,MITHAI JUNCTION,BLACKTOWN,"UNIT 3, 4 CARNEGIE PLACE",880,Fail to store food in such a way that it is protected from the likelihood of contamination - and the environmental conditions will not adversely affect the safety and suitability of the food,11339
+2024-07-23,BLACKTOWN,MITHAI JUNCTION,BLACKTOWN,"UNIT 3, 4 CARNEGIE PLACE",880,Fail to store potentially hazardous food under temperature control,11339
+2024-07-23,BLACKTOWN,PACIFIC RESTAURANT,BLACKTOWN,4 LYTON STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-07-23,BLACKTOWN,ROLL D BLACKTOWN,BLACKTOWN,17 PATRICK STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,BLACKTOWN,SEHAJ INDIAN FOOD AND SWEETS,BLACKTOWN,17 PATRICK STREET,880,"Fail to maintain the premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,BLACKTOWN,BAKE N FLAKE BAKERIES,GLENWOOD,601 SUNNYHOLT ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-07-23,BLACKTOWN,BAKE N FLAKE BAKERIES,GLENWOOD,601 SUNNYHOLT ROAD,880,"Fail to maintain the premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,BLACKTOWN,JACK S SEAFOOD,MOUNT DRUITT,4 MOUNT STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-07-23,BLACKTOWN,RED LEA MOUNT DRUITT,MOUNT DRUITT,49 NORTH PARADE,880,Fail to display potentially hazardous food under temperature control,11339
+2024-07-23,BLACKTOWN,IGA QUAKERS HILL,QUAKERS HILL,216 FARNHAM ROAD,880,"Fail to maintain the premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,BLACKTOWN,MAMA LOR RESTAURANT AND BAKERY,ROOTY HILL,37 ROOTY HILL ROAD NORTH,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-07-23,BLACKTOWN,MAMA LOR RESTAURANT AND BAKERY,ROOTY HILL,37 ROOTY HILL ROAD NORTH,880,"Fail to maintain the premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,BURWOOD,MUM S KITCHEN,BURWOOD,"SHOP 15A, 127-133 BURWOOD ROAD",1540,Fail to comply with a prohibition order,11359
+2024-07-23,CANTERBURY-BANKSTOWN,THE VALLEY,CAMPSIE,327 BEAMISH STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2024-07-23,CITY OF CANADA BAY,CONCORD FUNCTION CENTRE,CONCORD,138-144 MAJORS BAY ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,CITY OF CANADA BAY,CONCORD FUNCTION CENTRE,CONCORD,138-144 MAJORS BAY ROAD,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
+2024-07-23,CITY OF CANADA BAY,CONCORD FUNCTION CENTRE,CONCORD,138-144 MAJORS BAY ROAD,880,Fail to have a temperature measuring device at the premises where potentially hazardous food is handled,11339
+2024-07-23,CITY OF CANADA BAY,FRATELLI CO,CONCORD,108-110 MAJORS BAY ROAD,660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23085
+2024-07-23,CITY OF CANADA BAY,MYEONG DONG KOREAN RESTAURANT,NORTH STRATHFIELD,1-11 GEORGE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-07-23,CITY OF CANADA BAY,MYEONG DONG KOREAN RESTAURANT,NORTH STRATHFIELD,1-11 GEORGE STREET,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
+2024-07-23,CITY OF CANADA BAY,MYEONG DONG KOREAN RESTAURANT,NORTH STRATHFIELD,1-11 GEORGE STREET,880,Fail to take all practicable measures to prevent pests entering the food premises,11339
+2024-07-23,CITY OF CANADA BAY,BEIJING DUMPLING,RHODES,SHOP 4 / 7 RIDER BOULEVARD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-07-23,MAITLAND,VILLAGE CURRY N KEBAB,EAST MAITLAND,119 LAWES STREET,440,Fail to maintain the food premises to the required standard of cleanliness,11338
+2024-07-23,MAITLAND,ADDIL INDIAN AND KEBAB (THORNTON),THORNTON,SHOP 17 TAYLOR AVENUE,880,Fail to store potentially hazardous food under temperature control - and fail to reheat previously cooked and cooled potentially hazardous food rapidly to 60oC or above,11339
+2024-07-23,NORTH SYDNEY,GRILL D,CROWS NEST,57 WILLOUGHBY ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2024-07-23,NORTHERN BEACHES,MARINE SEAFOOD,DEE WHY,834 PITTWATER ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2024-07-23,NORTHERN BEACHES,MARINE SEAFOOD,DEE WHY,834 PITTWATER ROAD,880,Fail to store potentially hazardous food under temperature control - Previous warning given,11339
+2024-07-23,NORTHERN BEACHES,MARINE SEAFOOD,DEE WHY,834 PITTWATER ROAD,880,Fail to maintain at or near each hand washing facility a supply of - soap and single use towels. Previous warnings given,11339
+2024-07-23,NORTHERN BEACHES,ËLANORA HEIGHTS BAKERY,ELANORA HEIGHTS,63 KALANG ROAD,330,Fail to ensure that at least one food safety supervisor has been appointed for the premises - Previous warnings given,73086
+2024-07-23,NORTHERN BEACHES,FLYING FOX CAFE,MONA VALE,2 MONA STREET,440,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11338
+2024-07-23,NORTHERN BEACHES,VILLAGE PARK CAFE,MONA VALE,1 PARK STREET,330,Fail to ensure that at least one food safety supervisor has been appointed for the premises - Previous warnings given,73085
