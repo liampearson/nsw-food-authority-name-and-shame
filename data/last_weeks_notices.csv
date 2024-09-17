@@ -1,21 +1,35 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2024-09-10,BLACKTOWN,BLACKTOWN,RED ROOSTER BLACKTOWN EAST,8 BUNGARRIBEE ROAD,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-09-10,BLACKTOWN,PLUMPTON,PIZZA BAKERS PLUMPTON,260 JERSEY ROAD,880,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated",11339
-2024-09-10,BURWOOD,BURWOOD,D PENYETZ AND D CENDOL,183C BURWOOD ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises,11339
-2024-09-10,BURWOOD,BURWOOD,HONG KONG YUE BABY,35C BURWOOD ROAD,1540,Fail to comply with a prohibition order,11359
-2024-09-10,BURWOOD,BURWOOD,HONG KONG YUE BABY,35C BURWOOD ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11339
-2024-09-10,BURWOOD,BURWOOD,HONG KONG YUE BABY,35C BURWOOD ROAD,880,Fail to maintain at or near each hand washing facility a supply of - warm running water. Previous warnings given,11339
-2024-09-10,BURWOOD,BURWOOD,OH MY PHO,"SHOP 12, 127- 133 BURWOOD ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11339
-2024-09-10,CAMDEN,HARRINGTON PARK,BAMBINOS KINDERGARTEN FAIRWATER,35-37 FAIRWATER DRIVE,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
-2024-09-10,CAMPBELLTOWN,MINTO,PIZZA INN MINTO,"SHOP 1, 12 MINTO ROAD",440,Fail to maintain at or near each hand washing facility a supply of - single use towels. Previous warnings given,11338
-2024-09-10,CITY OF SYDNEY,DARLINGHURST,PEPPER S PIZZA,83 STANLEY STREET,880,Fail to notify the appropriate enforcement agency before the food business commences any food handling operations,11368
-2024-09-10,CUMBERLAND,WENTWORTHVILLE,MATAAM AL MANDI WENTY,39 DUNMORE STREET,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
-2024-09-10,CUMBERLAND,WENTWORTHVILLE,MATAAM AL MANDI WENTY,39 DUNMORE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
-2024-09-10,KU-RING-GAI,LINDFIELD,CHARLOTTE CAFE (FOOD STALL),43 LINDFIELD AVENUE,880,Fail to ensure the design and construction of the food premises is appropriate for the activities for which the premises are used - Previous warning given,11339
-2024-09-10,LIVERPOOL,AUSTRAL,GARDEN OF EDEN CAFE,"SHOP 3, 394-400 FIFTEENTH AVENUE",440,Fail to maintain the food premises to the required standard of cleanliness,11338
-2024-09-10,LIVERPOOL,AUSTRAL,GARDEN OF EDEN CAFE,"SHOP 3, 394-400 FIFTEENTH AVENUE",440,Fail to ensure walls and ceilings are able to be easily and effectively cleaned - Previous warning given,11338
-2024-09-10,LIVERPOOL,AUSTRAL,GARDEN OF EDEN CAFE,"SHOP 3, 394-400 FIFTEENTH AVENUE",440,Fail to maintain at or near each hand washing facility a supply of - single use towels,11338
-2024-09-10,LIVERPOOL,AUSTRAL,GARDEN OF EDEN CAFE,"SHOP 3, 394-400 FIFTEENTH AVENUE",440,Fail to maintain the food premises to the required standard of cleanliness,11338
-2024-09-10,LIVERPOOL,AUSTRAL,GARDEN OF EDEN CAFE,"SHOP 3, 394-400 FIFTEENTH AVENUE",440,Fail to ensure walls and ceilings are able to be easily and effectively cleaned - Previous warning given,11338
-2024-09-10,LIVERPOOL,AUSTRAL,GARDEN OF EDEN CAFE,"SHOP 3, 394-400 FIFTEENTH AVENUE",440,Fail to maintain at or near each hand washing facility a supply of - single use towels,11338
-2024-09-10,WILLOUGHBY,CHATSWOOD,WEIZUIZI TIANJIN CUISINE,SHOP 3/88 ARCHER STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11339
+2024-09-17,BLACKTOWN,BLACKTOWN,ZEEJAN INDIAN RESTAURANT N SWEETS,166-168 MAIN STREET,1320,Sale of food past its use-by date,11323
+2024-09-17,BLACKTOWN,BLACKTOWN,ZEEJAN INDIAN RESTAURANT N SWEETS,166-168 MAIN STREET,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-09-17,BLACKTOWN,GLENWOOD,THE IDLI PROJECT,601 SUNNYHOLT ROAD,880,"Fail to maintain food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-09-17,BLACKTOWN,HEBERSHAM,HEBERSHAM TAKEAWAY,16 WELWYN ROAD,660,Fail to ensure copy of the food safety supervisor certificate is kept on the premises and produced for inspection on request by an authorised officer,23091
+2024-09-17,BLACKTOWN,MARSDEN PARK,ELARA SUSHI,111 ELARA BOULEVARD,880,Fail to display potentially hazardous food under temperature control,11339
+2024-09-17,BLACKTOWN,ROOTY HILL,MAMA LOR RESTAURANT,37 ROOTY HILL ROAD NORTH,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-09-17,BURWOOD,BURWOOD,FRESH BEEF HOT POT,165 BURWOOD ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-09-17,BURWOOD,BURWOOD,LEUNG KAM KEE,"SHOP 7, UNITY PLACE",880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-09-17,BURWOOD,BURWOOD,LEUNG KAM KEE,"SHOP 7, UNITY PLACE",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-09-17,BURWOOD,BURWOOD,LEUNG KAM KEE,"SHOP 7, UNITY PLACE",880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
+2024-09-17,BURWOOD,BURWOOD,OH MY PHO,"SHOP 12, 127-133 BURWOOD ROAD",880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warning given,11339
+2024-09-17,BURWOOD,BURWOOD,OH MY PHO,"SHOP 12, 127-133 BURWOOD ROAD",880,Fail to maintain the food premises to the required standard of cleanliness - Previous warning given,11339
+2024-09-17,CANTERBURY-BANKSTOWN,BANKSTOWN,JASMINE 1,222 SOUTH TERRACE,880,Fail to take all practicable measures to ensure it only accepts food that is protected from the likelihood of contamination - Previous warnings given,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,1540,Fail to comply with a prohibition order,11359
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,1540,Fail to comply with a prohibition order,11359
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,1540,Fail to comply with a prohibition order,11359
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,1540,Fail to comply with a prohibition order,11359
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to ensure there is an adequate supply of water if water is to be used for any of the activities conducted on the food premises,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to ensure there is an adequate supply of water if water is to be used for any of the activities conducted on the food premises,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to ensure there is an adequate supply of water if water is to be used for any of the activities conducted on the food premises,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
+2024-09-17,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,Fail to ensure there is an adequate supply of water if water is to be used for any of the activities conducted on the food premises,11339
+2024-09-17,CITY OF SYDNEY,SYDNEY,FRENCH KISS CREPERIE (FOOD STALLS),31A ALFRED STREET,880,Fail to maintain at or near each hand washing facility a supply of - warm running water. Previous warning given,11339
+2024-09-17,INNER WEST,SUMMER HILL,GOBLIN KITCHEN AND BAR,6 SLOANE STREET,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2024-09-17,LIVERPOOL,PRESTONS,CLASSIC MANOOSH AND PIZZA,"SHOP 1, 1975 CAMDEN VALLEY WAY",660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23085
