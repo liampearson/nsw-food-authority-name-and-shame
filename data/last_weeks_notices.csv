@@ -1,30 +1,27 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2024-10-08,BURWOOD,BURWOOD,D PENYETZ AND D CENDOL,183C BURWOOD ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-10-08,BURWOOD,BURWOOD,GANG THAI BURWOOD,"SHOP 263, 98A-114 BURWOOD ROAD",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-10-08,BURWOOD,BURWOOD,GANG THAI BURWOOD,"SHOP 263, 98A-114 BURWOOD ROAD",880,Fail to store potentially hazardous food under temperature control,11339
-2024-10-08,BURWOOD,BURWOOD,GANG THAI BURWOOD,"SHOP 263, 98A-114 BURWOOD ROAD",880,Fail to display potentially hazardous food under temperature control - Previous warning given,11339
-2024-10-08,BURWOOD,BURWOOD,GANG THAI BURWOOD,"SHOP 263, 98A-114 BURWOOD ROAD",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-10-08,BURWOOD,BURWOOD,GANG THAI BURWOOD,"SHOP 263, 98A-114 BURWOOD ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-10-08,BURWOOD,BURWOOD,GANG THAI BURWOOD,"SHOP 263, 98A-114 BURWOOD ROAD",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
-2024-10-08,BURWOOD,BURWOOD,MR STONEBOWL,"G 122, 122 BURWOOD ROAD",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-10-08,BURWOOD,BURWOOD,MR STONEBOWL,"G 122, 122 BURWOOD ROAD",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-10-08,BURWOOD,BURWOOD,MR STONEBOWL,"G 122, 122 BURWOOD ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-10-08,BURWOOD,BURWOOD,MR STONEBOWL,"G 122, 122 BURWOOD ROAD",880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
-2024-10-08,BURWOOD,BURWOOD,MR STONEBOWL,"G 122, 122 BURWOOD ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD DOAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,880,Fail to store potentially hazardous food under temperature control,11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,880,Fail to display potentially hazardous food under temperature control,11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises,11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
-2024-10-08,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
-2024-10-08,CANTERBURY-BANKSTOWN,LAKEMBA,DHAKA DELIGHT,33 RAILWAY PARADE,880,Fail to maintain the food premises to the required standard of cleanliness - Pevious warnings given,11339
-2024-10-08,CANTERBURY-BANKSTOWN,LAKEMBA,DHAKA DELIGHT,33 RAILWAY PARADE,880,Fail to display potentially hazardous food under temperature control,11339
-2024-10-08,CITY OF PARRAMATTA,PARRAMATTA,SPICES OF INDIA PARRAMATTA,113 CHURCH STREET,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
-2024-10-08,CUMBERLAND,PENDLE HILL,STAR INDIA CUISINE,114 PENDLE WAY,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
-2024-10-08,CUMBERLAND,PENDLE HILL,STAR INDIA CUISINE,114 PENDLE WAY,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
-2024-10-08,LIVERPOOL,LIVERPOOL,OMER BIRYANI HOUSE,197 GEORGE STREET,880,Fail to maintain at or near each hand washing facility a supply of - single use hand towels or other means to dry hands.,11339
-2024-10-08,LIVERPOOL,LIVERPOOL,OMER BIRYANI HOUSE,197 GEORGE STREET,880,"Fail to maintain the food premises to the required standard of cleanliness - visible food waste, dirt, grease, and other visible matter",11339
-2024-10-08,LIVERPOOL,LIVERPOOL,OMER BIRYANI HOUSE,197 GEORGE STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-10-08,NORTH SYDNEY,MCMAHONS POINT,ZINGER TAJ,147 BLUES POINT ROAD,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face - Previous warnings given",11339
-2024-10-08,PENRITH,PENRITH,STARBUCKS NORTH PENRITH,2229-2231 CASTLEREAGH ROAD,880,Fail to display potentially hazardous food under temperature control,11339
+2024-10-15,BAYSIDE,WOLLI CREEK,(NO TRADING NAME),"UNIT 1003, 24 LEVEY STREET",660,Fail to hold the required licence to carry on a food business or activity,11315
+2024-10-15,BAYSIDE,WOLLI CREEK,(NO TRADING NAME),"UNIT 1003, 24 LEVEY STREET",660,Fail to comply with the requirements of a food safety scheme,11372
+2024-10-15,BLACKTOWN,DOONSIDE,THE COLEBEE CAFE,"NURRAGINGY RESERVE, KNOX ROAD",880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-10-15,BURWOOD,BURWOOD,HARVEST FOODIE,"SHOP 2, 122-137 BURWOOD ROAD",880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-10-15,BURWOOD,BURWOOD,HARVEST FOODIE,"SHOP 2, 122-137 BURWOOD ROAD",880,Fail to have a temperature measuring device at the premises where potentially hazardous food is handled - Previous warnings given,11339
+2024-10-15,BURWOOD,BURWOOD,KOW LOON CAFE,"UNIT 11A, 27 BELMORE STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-10-15,BURWOOD,BURWOOD,KOW LOON CAFE,"UNIT 11A, 27 BELMORE STREET",880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face - Fail to maintain easily accessible hand washing facilities on the food premisePrevious warning given",11339
+2024-10-15,BURWOOD,BURWOOD,KOW LOON CAFE,"UNIT 11A, 27 BELMORE STREET",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use - Previous warning given",11339
+2024-10-15,BURWOOD,BURWOOD,LEGEND HOT POT BUFFET,"SHOP 25, 27 BELMORE STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11339
+2024-10-15,BURWOOD,BURWOOD,LEGEND HOT POT BUFFET,"SHOP 25, 27 BELMORE STREET",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-10-15,BURWOOD,BURWOOD,LEGEND HOT POT BUFFET,"SHOP 25, 27 BELMORE STREET",880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - Previous warning given,11339
+2024-10-15,BURWOOD,BURWOOD,LEGEND HOT POT BUFFET,"SHOP 25, 27 BELMORE STREET",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
+2024-10-15,BURWOOD,BURWOOD,ZHANG LIANG SPICY HOTPOT,130 BURWOOD ROAD,1540,Fail to comply with a prohibition order - Previous warnings given,11359
+2024-10-15,CUMBERLAND,PENDLE HILL,RAJAH SUPERMARKET,115 PENDLE WAY,660,Fail to ensure copy of the food safety supervisor certificate is kept on the premises and produced for inspection on request by an authorised officer - Previous warnings given,23091
+2024-10-15,LIVERPOOL,LIVERPOOL,THE SHED,"K2903, 25 GEORGE STREET",880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-10-15,LIVERPOOL,LIVERPOOL,THE SHED,"K2903, 25 GEORGE STREET",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2024-10-15,LIVERPOOL,LIVERPOOL,THE SHED,"K2903, 25 GEORGE STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-10-15,RYDE,EASTWOOD,STEAMUP CANTONESE RESTAURANT,SHOP 2A/6 PROGRESS AVENUE,440,Fail to store potentially hazardous food under temperature control - Previous warnings given,11338
+2024-10-15,THE HILLS,NORTH KELLYVILLE,SUMMERLAND POULTRY,63 WITHERS ROAD,660,Fail to comply with the requirements of a food safety scheme - Fail to provide documented evidence,11015
+2024-10-15,THE HILLS,NORTH KELLYVILLE,SUMMERLAND POULTRY,63 WITHERS ROAD,440,Fail to have a documented food safety plan,11338
+2024-10-15,WILLOUGHBY,CHATSWOOD,BREADTOP CHATSWOOD EXPRESS,SHOP 16/436 VICTORIA AVENUE,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2024-10-15,WILLOUGHBY,CHATSWOOD,JOOMAK,7 / 18-26 ANDERSON STREET,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - Previous warnings given,11339
+2024-10-15,WILLOUGHBY,CHATSWOOD,TOASTIESMITH,SHOP 12B/436 VICTORIA AVENUE,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - Previous warnings given,11339
+2024-10-15,WILLOUGHBY,WILLOUGHBY,PEPPER PIZZA,531 WILLOUGHBY ROAD,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - Previous warnings given,11339
+2024-10-15,WOLLONDILLY,TAHMOOR,KFC TAHMOOR,111-117 REMEMBRANCE DRWY,880,Fail to maintain the food premises to the required standard of cleanliness - Previos warnings given,11339
+2024-10-15,WOLLONDILLY,TAHMOOR,KFC TAHMOOR,111-117 REMEMBRANCE DRWY,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
