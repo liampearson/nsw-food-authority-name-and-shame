@@ -1,16 +1,26 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2024-10-29,BAYSIDE,MASCOT,INBOUND CAFE,"1002 KINGSFORD SMITH AIRPORT, GENERAL HOLMES DRIVE",880,Failed to notify appropriate enforcement agency before conducting the food business - Previous warnings given,11368
-2024-10-29,BURWOOD,BURWOOD,EDOMAE SUSH,"SHOP 1, 39 Belmore STREET",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-10-29,BURWOOD,BURWOOD,EDOMAE SUSH,"SHOP 1, 39 BELMORE STREET",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-10-29,BURWOOD,BURWOOD,GOLDEN CRISPY FRIED MEAT,"SHOP 13, 127-133 BURWOOD ROAD",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use - Previous warning given",11339
-2024-10-29,BURWOOD,BURWOOD,GOLDEN CRISPY FRIED MEAT,"SHOP 13, 127-133 BURWOOD ROAD",880,Fail to maintain the food premises to the required standard of cleanliness - Previous warning given,11339
-2024-10-29,BURWOOD,BURWOOD,GOLDEN CRISPY FRIED MEAT,"SHOP 13, 127-133 BURWOOD ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11339
-2024-10-29,BURWOOD,BURWOOD,KWAFOOD SYDNEY,"K11, LEVEL 1, 127-133 BURWOOD ROAD",880,Fail to take all practicable measures to ensure it only accepts food that is protected from the likelihood of contamination - and that potentially hazardous food is under temperature control,11339
-2024-10-29,BURWOOD,BURWOOD,ROYAL TREASURE SEAFOOD RESTAURANT,"SHOP 16, LEVEL 2, 27-31 BELMORE STREET",880,Fail to maintain easily accessible hand washing facilities on the food premises,11339
-2024-10-29,BURWOOD,BURWOOD,SPICY JOINT,"SHOP 10, 27-31 BELMORE ROAD",880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2024-10-29,CAMPBELLTOWN,Campbelltown,NOODLE PARADISE,SHOP 3 135-141 QUEEN STREET,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
-2024-10-29,CANTERBURY-BANKSTOWN,GREENACRE,CHULLORA BAKERY,"SHOP 34, 355 WATERLOO ROAD",440,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11338
-2024-10-29,SUTHERLAND,SUTHERLAND,INDIAN HOME DINER,794 OLD PRINCES HIGHWAY,1540,Sale of food that is unsafe,11319
-2024-10-29,WOLLONGONG,WOLLONGONG,FOOD WORLD GOURMET CAFE,157 KEIRA STREET,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2024-10-29,WOLLONGONG,WOLLONGONG,FOOD WORLD GOURMET CAFE,157 KEIRA STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
-2024-10-29,WOLLONGONG,WOLLONGONG,FOOD WORLD GOURMET CAFE,157 KEIRA STREET,880,Fail to store potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-05,BATHURST,YETHOLME,AMPOL YETHOLME,3529 GREAT WESTERN HIGHWAY,1540,Fail to ensure food is not handled in a way likely to render it unsafe - Previous warnings given,11317
+2024-11-05,BURWOOD,BURWOOD,MY AUNT S HANDMADE NOODLES,226 BURWOOD ROAD,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-11-05,CANTERBURY-BANKSTOWN,BANKSTOWN,MELON FIESTA (FOOD STALL),"STALL 20, OLYMPIC PARADE",440,Fail to maintain at or near each hand washing facility a supply of - warm running water. Previous warnings given,11338
+2024-11-05,CITY OF CANADA BAY,RHODES,HASHI SUSHI,SHOP 5 / 2 WALKER STREET,880,Fail to take all practicable measures to process only safe and suitable food - Previous warnings given,11339
+2024-11-05,CITY OF CANADA BAY,RHODES,HASHI SUSHI,SHOP 5 / 2 WALKER STREET,880,Fail to take all practicable measures to ensure it only accepts potentially hazardous food that is at the correct temperature - Previous warnings given,11339
+2024-11-05,CITY OF CANADA BAY,RHODES,HASHI SUSHI,SHOP 5 / 2 WALKER STREET,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-05,CITY OF PARRAMATTA,PARRAMATTA,FRANKIE B S PARRAMATTA,291 CHURCH STREET,880,Fail to store potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-05,GEORGES RIVER,KOGARAH,FILIPINO FIESTA,9 REGENT STREET,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-05,GEORGES RIVER,KOGARAH,FILIPINO FIESTA,9 REGENT STREET,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2024-11-05,GEORGES RIVER,KOGARAH,FILIPINO FIESTA,9 REGENT STREET,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
+2024-11-05,INNER WEST,NEWTOWN,CAIRO TAKEAWAY,81 ENMORE ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warnings given,11339
+2024-11-05,INNER WEST,NEWTOWN,CAIRO TAKEAWAY,81 ENMORE ROAD,660,Fail to ensure that at least one food safety supervisor continues to be appointed for the premises - Previous warnings given,23086
+2024-11-05,LIVERPOOL,LIVERPOOL,PIZZA HUT,"SHOP 1, 52 MEMORIAL AVENUE",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
+2024-11-05,NORTH SYDNEY,NEUTRAL BAY,THE COLONIAL,SHOP 1/19-21 GROSVENOR STREET,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
+2024-11-05,NORTHERN BEACHES,MONA VALE,BAR VEINTE,1 WARATAH STREET,660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23085
+2024-11-05,NORTHERN BEACHES,MONA VALE,FLYING FOX MONA VALE,2 MONA STREET,330,Fail to ensure that at least one food safety supervisor continues to be appointed for the premises - Previous warning given,73086
+2024-11-05,NORTHERN BEACHES,MONA VALE,FLYING FOX MONA VALE,2 MONA STREET,440,"Fail to maintain at or near each hand washing facility a supply of - warm running water, soap and single use towels. Previous warning given",11338
+2024-11-05,NORTHERN BEACHES,MONA VALE,FLYING FOX MONA VALE,2 MONA STREET,440,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11338
+2024-11-05,RYDE,EASTWOOD,PU JI MI KOREAN RESTAURANT,SHOP 2.2/62-80 ROWE STREET,880,Fail to store potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-05,SHOALHAVEN,SUSSEX INLET,DINH HOTBREAD AND CAKE SHOP,"UNIT 1, 183 JACOBS DRIVE",440,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Fail to take all practicable measures to prevent pests entering the food premises,11338
+2024-11-05,WAVERLEY,BONDI,WOOLWORTHS,139-143 BONDI ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-11-05,WAVERLEY,BONDI,WOOLWORTHS,139-143 BONDI ROAD,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-11-05,WAVERLEY,BONDI,WOOLWORTHS,139-143 BONDI ROAD,880,Fail to take all practicable measures to protect single use items from the likelihood of contamination,11339
+2024-11-05,WAVERLEY,BONDI,WOOLWORTHS,139-143 BONDI ROAD,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2024-11-05,WAVERLEY,BONDI,WOOLWORTHS,139-143 BONDI ROAD,880,"Fail to ensure walls and ceilings are sealed to prevent the entry of dirt, dust and pests - are unable to absorb grease, food particles or water, are able to be easily and effectively clean",11339
