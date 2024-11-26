@@ -1,25 +1,23 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2024-11-19,BAYSIDE,WOLLI CREEK,YAKINIKU RYOMA,SHOP 1 / 1 MAGDALENE TERRACE,880,Failed to notify appropriate enforcement agency before conducting the food business - Previous warning given,11368
-2024-11-19,BURWOOD,BURWOOD,90 DEGREE BENTO,"SHOP 6A, 127-133 BURWOOD ROAD",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-11-19,BURWOOD,BURWOOD,90 DEGREE BENTO,"SHOP 6A, 127-133 BURWOOD ROAD",880,Fail to maintain the food premises to the required standard of cleanliness - Previous warning given,11339
-2024-11-19,BURWOOD,BURWOOD,90 DEGREE BENTO,"SHOP 6A, 127-133 BURWOOD ROAD",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11339
-2024-11-19,BURWOOD,BURWOOD,90 DEGREE BENTO,"SHOP 6A, 127-133 BURWOOD ROAD",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
-2024-11-19,BURWOOD,BURWOOD,JIANG S YUNMAN RICE NOODLE,"7A, 127-133 BURWOOD ROAD",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-11-19,BURWOOD,BURWOOD,JIANG S YUNMAN RICE NOODLE,"7A, 127-133 BURWOOD ROAD",880,Fail to maintain easily accessible hand washing facilities on the food premises,11339
-2024-11-19,BURWOOD,BURWOOD,JIANG S YUNMAN RICE NOODLE,"7A, 127-133 BURWOOD ROAD",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
-2024-11-19,BURWOOD,BURWOOD,JIANG S YUNMAN RICE NOODLE,"7A, 127-133 BURWOOD ROAD",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
-2024-11-19,BURWOOD,BURWOOD,TEPPANYAKI X SQUID,"SHOP 12A, 127-133 BURWOOD ROAD",1540,Fail to comply with a prohibition order,11359
-2024-11-19,BURWOOD,BURWOOD,XI- BAY HANDMADE NOODLE RESTAURANT,181D BURWOOD ROAD,1540,Fail to comply with a prohibition order,11359
-2024-11-19,CANTERBURY-BANKSTOWN,REVESBY,AWESOME THAI,"SHOP 10, 19 MARCO AVENUE",880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2024-11-19,CANTERBURY-BANKSTOWN,REVESBY,AWESOME THAI,"SHOP 10, 19 MARCO AVENUE",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
-2024-11-19,GEORGES RIVER,KOGARAH,FILIPINO FIESTA,9 REGENT STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
-2024-11-19,LIVERPOOL,LIVERPOOL,BIGGE ESPRESSO,124 BIGGE STREET,660,Fail to ensure copy of the food safety supervisor certificate is kept on the premises and produced for inspection on request by an authorised officer,23091
-2024-11-19,LIVERPOOL,LIVERPOOL,BIGGE ESPRESSO,124 BIGGE STREET,880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use",11339
-2024-11-19,LIVERPOOL,LIVERPOOL,MEMORIAL FRUIT MARKET,"SHOP 1, 21 MEMORIAL AVENUE",440,Fail to maintain the food premises to the required standard of cleanliness,11338
-2024-11-19,LIVERPOOL,LIVERPOOL,MEMORIAL FRUIT MARKET,"SHOP 1, 21 MEMORIAL AVENUE",440,Fail to store food in such a way that it is protected from the likelihood of contamination,11338
-2024-11-19,NEWCASTLE,KOTARA,ROLL D KOTARA,89 PARK AVENUE,880,Fail to display potentially hazardous food under temperature control - Previous warning given,11339
-2024-11-19,NORTH SYDNEY,CROWS NEST,FARINA PIZZERIA CROWS NEST,104 WILLOUGHBY ROAD,880,Fail to maintain at or near each hand washing facility a supply of - warm running water,11339
-2024-11-19,NORTHERN BEACHES,FRENCHS FOREST,THE OLD CIVIC CAFE DINER,"SHOP 15, FORESTWAY SHOPPING CENTRE, CNR WARRINGAH",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2024-11-19,PENRITH,CADDENS,NOODLE PARADISE,T05 68 O'CONNELL STREET,880,"Failed to ensure that each food handler who engages in a prescribed activity has, before engaging in that activity: - completes a food safety training course. Previous warning given",11339
-2024-11-19,PENRITH,PENRITH,EL GRINGOS LOCOS,"SHOP 006, STATION STREET",880,Fail to maintain at or near each hand washing facility a supply of - warm running water and soap.,11339
-2024-11-19,RYDE,EASTWOOD,MUNCHY FOOD,SHOP 216/62-80 ROWE STREET,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-26,BURWOOD,BURWOOD,BIG Z SKEWERS,"SHOP 5, 38-40 RAILWAY PARADE",880,Fail to take all practicable measures to ensure it only accepts food that is protected from the likelihood of contamination,11339
+2024-11-26,BURWOOD,BURWOOD,XI- BAY HANDMADE NOODLE RESTAURANT,181D BURWOOD ROAD,880,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated",11339
+2024-11-26,CANTERBURY-BANKSTOWN,BANKSTOWN,CAFE DIBI,"KIOSK 7, 1A NORTH TERRACE",880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2024-11-26,CITY OF SYDNEY,CHIPPENDALE,THE TASTE OF CHONGQING,"SHOP 4, 87-97 REGENT STREET",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2024-11-26,CITY OF SYDNEY,HAYMARKET,50 SWEET 50 THAI,"SHOP 44, 1 DIXON STREET",880,Fail to maintain at or near each hand washing facility a supply of - soap and single use towels,11339
+2024-11-26,INNER WEST,STANMORE,LITTLE MULE CAFE,136 PERCIVAL ROAD,880,"Fail to ensure sufficient natural or mechanical ventilation to effectively remove fumes, smoke, steam and vapours from the food premises - Previous warning given",11339
+2024-11-26,LIVERPOOL,CASULA,CHOICE SUSHI,"SHOP FB05, 25 PARKERS FARM PLACE",880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-11-26,LIVERPOOL,CASULA,CHOICE SUSHI,"SHOP FB05, 25 PARKERS FARM PLACE",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-11-26,LIVERPOOL,CASULA,CHOICE SUSHI,"SHOP FB05, 25 PARKERS FARM PLACE",880,Fail to maintain at or near each hand washing facility a supply of - single use towels,11339
+2024-11-26,LIVERPOOL,LIVERPOOL,BLEND COCKTAILS,"SHOP 2, 40 MEMORIAL AVENUE",660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23085
+2024-11-26,LIVERPOOL,MOOREBANK,BROASTER MOOREBANK,11/32-40 STOCKTON AVENUE,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-11-26,LIVERPOOL,MOOREBANK,BROASTER MOOREBANK,11/32-40 STOCKTON AVENUE,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-11-26,LIVERPOOL,MOOREBANK,BROASTER MOOREBANK,11/32-40 STOCKTON AVENUE,880,Fail to maintain at or near each hand washing facility a supply of - single use towels,11339
+2024-11-26,NORTHERN BEACHES,FRENCHS FOREST,PHULKARI INDIAN RESTAURANT (FRENCHS FOREST),63-69 SORLIE ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises - Fail to maintain at or near each hand washing facility a supply of soap and single use towels,11339
+2024-11-26,NORTHERN BEACHES,WARRIEWOOD,MANLY DELI,37 SYDNEY ROAD,770,Fail to comply with a prohibition order - Previous warnings given,11358
+2024-11-26,PENRITH,JAMISONTOWN,MOCCA CAFE,301 MULGOA ROAD,880,Fail to maintain at or near each hand washing facility a supply of - single use towels,11339
+2024-11-26,PENRITH,JAMISONTOWN,MOCCA CAFE,301 MULGOA ROAD,880,Fail to store potentially hazardous food under temperature control,11339
+2024-11-26,PENRITH,PENRITH,TINS AND WOOD,"UNIT 3, 12 TINDALE STREET",880,Fail to maintain at or near each hand washing facility a supply of - soap,11339
+2024-11-26,PENRITH,PENRITH,TINS AND WOOD,"UNIT 3, 12 TINDALE STREET",660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23086
+2024-11-26,QUEANBEYAN-PALERANG,QUEANBEYAN,THE MILL CAFE,57 COLLETT STREET,440,Fail to take all practicable measures to prevent pests entering the food premises - and fail to take all practicable measures to eradicate and prevent the harbourage of pests,11338
+2024-11-26,SNOWY MONARO,COOMA,UNDER THE ELMS,89 SHARP STREET,440,Fail to store potentially hazardous food under temperature control,11338
+2024-11-26,WOOLLAHRA,ROSE BAY,FISH IN THE FAMILY,520-536 OLD SOUTH HEAD ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warning given,11339
