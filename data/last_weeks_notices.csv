@@ -1,23 +1,28 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2024-11-26,BURWOOD,BURWOOD,BIG Z SKEWERS,"SHOP 5, 38-40 RAILWAY PARADE",880,Fail to take all practicable measures to ensure it only accepts food that is protected from the likelihood of contamination,11339
-2024-11-26,BURWOOD,BURWOOD,XI- BAY HANDMADE NOODLE RESTAURANT,181D BURWOOD ROAD,880,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated",11339
-2024-11-26,CANTERBURY-BANKSTOWN,BANKSTOWN,CAFE DIBI,"KIOSK 7, 1A NORTH TERRACE",880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
-2024-11-26,CITY OF SYDNEY,CHIPPENDALE,THE TASTE OF CHONGQING,"SHOP 4, 87-97 REGENT STREET",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
-2024-11-26,CITY OF SYDNEY,HAYMARKET,50 SWEET 50 THAI,"SHOP 44, 1 DIXON STREET",880,Fail to maintain at or near each hand washing facility a supply of - soap and single use towels,11339
-2024-11-26,INNER WEST,STANMORE,LITTLE MULE CAFE,136 PERCIVAL ROAD,880,"Fail to ensure sufficient natural or mechanical ventilation to effectively remove fumes, smoke, steam and vapours from the food premises - Previous warning given",11339
-2024-11-26,LIVERPOOL,CASULA,CHOICE SUSHI,"SHOP FB05, 25 PARKERS FARM PLACE",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-11-26,LIVERPOOL,CASULA,CHOICE SUSHI,"SHOP FB05, 25 PARKERS FARM PLACE",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-11-26,LIVERPOOL,CASULA,CHOICE SUSHI,"SHOP FB05, 25 PARKERS FARM PLACE",880,Fail to maintain at or near each hand washing facility a supply of - single use towels,11339
-2024-11-26,LIVERPOOL,LIVERPOOL,BLEND COCKTAILS,"SHOP 2, 40 MEMORIAL AVENUE",660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23085
-2024-11-26,LIVERPOOL,MOOREBANK,BROASTER MOOREBANK,11/32-40 STOCKTON AVENUE,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-11-26,LIVERPOOL,MOOREBANK,BROASTER MOOREBANK,11/32-40 STOCKTON AVENUE,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-11-26,LIVERPOOL,MOOREBANK,BROASTER MOOREBANK,11/32-40 STOCKTON AVENUE,880,Fail to maintain at or near each hand washing facility a supply of - single use towels,11339
-2024-11-26,NORTHERN BEACHES,FRENCHS FOREST,PHULKARI INDIAN RESTAURANT (FRENCHS FOREST),63-69 SORLIE ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises - Fail to maintain at or near each hand washing facility a supply of soap and single use towels,11339
-2024-11-26,NORTHERN BEACHES,WARRIEWOOD,MANLY DELI,37 SYDNEY ROAD,770,Fail to comply with a prohibition order - Previous warnings given,11358
-2024-11-26,PENRITH,JAMISONTOWN,MOCCA CAFE,301 MULGOA ROAD,880,Fail to maintain at or near each hand washing facility a supply of - single use towels,11339
-2024-11-26,PENRITH,JAMISONTOWN,MOCCA CAFE,301 MULGOA ROAD,880,Fail to store potentially hazardous food under temperature control,11339
-2024-11-26,PENRITH,PENRITH,TINS AND WOOD,"UNIT 3, 12 TINDALE STREET",880,Fail to maintain at or near each hand washing facility a supply of - soap,11339
-2024-11-26,PENRITH,PENRITH,TINS AND WOOD,"UNIT 3, 12 TINDALE STREET",660,Fail to ensure that at least one food safety supervisor has been appointed for the premises,23086
-2024-11-26,QUEANBEYAN-PALERANG,QUEANBEYAN,THE MILL CAFE,57 COLLETT STREET,440,Fail to take all practicable measures to prevent pests entering the food premises - and fail to take all practicable measures to eradicate and prevent the harbourage of pests,11338
-2024-11-26,SNOWY MONARO,COOMA,UNDER THE ELMS,89 SHARP STREET,440,Fail to store potentially hazardous food under temperature control,11338
-2024-11-26,WOOLLAHRA,ROSE BAY,FISH IN THE FAMILY,520-536 OLD SOUTH HEAD ROAD,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warning given,11339
+2024-12-03,BAYSIDE,MASCOT,WESTERN LEGEND BBQ,SHOP 1 / 256B COWARD STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-12-03,BLACKTOWN,QUAKERS HILL,HOMERS BURGERS,216 FARNHAM ROAD,440,Fail to store potentially hazardous food under temperature control,11338
+2024-12-03,CAMDEN,CAMDEN,MCDONALDS CAMDEN,15 ARGYLE STREET,880,Fail to ensure that persons undertaking or supervising food handling operations have skills and knowledge in food safety and food hygiene matters,11339
+2024-12-03,CAMDEN,CAMDEN,MCDONALDS CAMDEN,15 ARGYLE STREET,880,Fail to take all practicable measures to ensure all people on the food premises do not contaminate food,11339
+2024-12-03,CANTERBURY-BANKSTOWN,BANKSTOWN,CAFE NGAN,"SHOP 1, 300 LONG ROAD",440,Fail to display potentially hazardous food under temperature control - Previous warnings given,11338
+2024-12-03,CANTERBURY-BANKSTOWN,CAMPSIE,DAMEE CHAOWEI RESTAURANT CAMPSIE,"SHOP 1, 234 BEAMISH STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-12-03,CANTERBURY-BANKSTOWN,CAMPSIE,MASTER GUO NOODLE HOUSE,282 BEAMISH STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2024-12-03,CANTERBURY-BANKSTOWN,EARLWOOD,OPORTO EARLWOOD,277 HOMER STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2024-12-03,CANTERBURY-BANKSTOWN,EARLWOOD,U KNOW THAI,345 HOMER STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2024-12-03,CANTERBURY-BANKSTOWN,LAKEMBA,DHANSIRI CAFE AND SWEETS,49 RAILWAY PARADE,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2024-12-03,CANTERBURY-BANKSTOWN,LAKEMBA,KHUSHBOO SWEETS AND RESTAURANT,38 RAILWAY PARADE,880,Fail to have facilities for the storage of garbage and recyclable matter that enclose it to keep pests and animals away from it,11339
+2024-12-03,CANTERBURY-BANKSTOWN,LAKEMBA,PISTA HOUSE,"SHOP 3, 61-67 HALDON STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2024-12-03,CANTERBURY-BANKSTOWN,LAKEMBA,PISTA HOUSE,"SHOP 3, 61-67 HALDON STREET",880,Fail to take all practicable measures to prevent pests entering the food premises,11339
+2024-12-03,CANTERBURY-BANKSTOWN,LAKEMBA,USTAD,"SHOP 5, 61-67 HALDON STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2024-12-03,CANTERBURY-BANKSTOWN,LAKEMBA,USTAD,"SHOP 5, 61-67 HALDON STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2024-12-03,CANTERBURY-BANKSTOWN,PUNCHBOWL,EIGHTEEN 22,1-9 BROADWAY  STREET,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face - Previous warnings given",11339
+2024-12-03,CITY OF SYDNEY,SURRY HILLS,SAIGON SUMMER,92-94 WENTWORTH AVENUE,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2024-12-03,CITY OF SYDNEY,SURRY HILLS,SAMIRS INDIAN KITCHEN,662 CROWN STREET,880,Fail to display potentially hazardous food under temperature control,11339
+2024-12-03,GEORGES RIVER,KOGARAH,HONG HANG BAKERY KOGARAH,23 RAILWAY PARADE,440,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11338
+2024-12-03,GEORGES RIVER,KOGARAH,HONG HANG BAKERY KOGARAH,23 RAILWAY PARADE,440,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11338
+2024-12-03,INNER WEST,ASHFIELD,MANMARUYA,217 LIVERPOOL ROAD,880,Fail to store potentially hazardous food under temperature control - Previous warnings given,11339
+2024-12-03,INNER WEST,ASHFIELD,MANMARUYA,217 LIVERPOOL ROAD,880,Fail to take all practicable measures to ensure it only accepts food that is protected from the likelihood of contamination - Previous warnings given,11339
+2024-12-03,MID-COAST,CHARLOTTE BAY,METRO PETROLEUM,203 CHARLOTTE BAY STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11339
+2024-12-03,MID-COAST,CHARLOTTE BAY,METRO PETROLEUM,203 CHARLOTTE BAY STREET,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - Previous warning given,11339
+2024-12-03,WAVERLEY,BONDI JUNCTION,SABBABA,"SHOP 1, 71-91 SPRING STREET",880,Fail to maintain easily accessible hand washing facilities on the food premises - and a supply of soap and single use towels. Previous warnings given,11339
+2024-12-03,WAVERLEY,BONDI JUNCTION,SABBABA,"SHOP 1, 71-91 SPRING STREET",880,Fail to maintain the food premises to the required standard of cleanliness - Previous warning given,11339
+2024-12-03,WAVERLEY,BONDI JUNCTION,SOURDOUGH BAKERY @ CAFE,500 OXFORD STREET,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warnings given,11339
