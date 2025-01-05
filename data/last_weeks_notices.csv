@@ -1,23 +1,20 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2024-12-10,BLACKTOWN,MOUNT DRUITT,TERESA S SIOPAO CATERING,4 MOUNT STREET,440,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated",11338
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,Fail to maintain at or near each hand washing facility a supply of - warm running water and single use towels,11339
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11339
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use - Previous warning given",11339
-2024-12-10,BURWOOD,BURWOOD,T8STE,"SHOP 1, 2A ELSIE STREET",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warning given,11339
-2024-12-10,CANTERBURY-BANKSTOWN,BANKSTOWN,YUNG LEE RESTAURANT,24 BANKSTOWN CITY PLAZA,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face - Previous warnings given",11339
-2024-12-10,CANTERBURY-BANKSTOWN,CAMPSIE,BA JIE SHU SHI,216 BEAMISH STREET,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
-2024-12-10,CANTERBURY-BANKSTOWN,CAMPSIE,GOLDEN CROWN CAKE SHOP,2/234 BEAMISH STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11339
-2024-12-10,CANTERBURY-BANKSTOWN,LAKEMBA,GRAND PARADISE SYDNEY,"SHOP 6, 61-67 HALDON STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-12-10,CITY OF SYDNEY,POTTS POINT,K FOOD MART,"SHOP 5, 107-109 DARLINGHURST ROAD",880,Fail to store potentially hazardous food under temperature control,11339
-2024-12-10,CITY OF SYDNEY,POTTS POINT,K FOOD MART,"SHOP 5, 107-109 DARLINGHURST ROAD",880,"Fail to, when processing food where a process step is needed to reduce to safe levels any pathogens that may be present in the food - use a process step that is reasonably known to achieve the microbiological safety of the food",11339
-2024-12-10,KIAMA,KIAMA,ROLL N BOWL,98 TERRALONG STREET,880,"Fail to maintain easily accessible hand washing facilities on the food premises - and a supply of warm running water, soap and single use towels. Previous warnings given.",11339
-2024-12-10,LIVERPOOL,LIVERPOOL,PIZZA HUT,"SHOP 1, 52 MEMORIAL AVENUE",880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2024-12-10,LIVERPOOL,LIVERPOOL,SUSHI HUB,"K2000, 25 GEORGE STREET",880,Fail to display potentially hazardous food under temperature control,11339
-2024-12-10,RYDE,EASTWOOD,SEABAY KITCHEN,12 RAILWAY PARADE,880,Fail to maintain at or near each hand washing facility a supply of - soap or other items that may be used to thoroughly clean hands. Previous warnings given,11339
-2024-12-10,SNOWY MONARO,ADAMINABY,THE BAKERY ADAMINABY,11 DENISON STREET,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face -  and fail to maintain a supply of soap and single use towels.",11339
-2024-12-10,SNOWY MONARO,COOMA,COOMA EX-SERVICES CLUB,106 VALE STREET,880,Fail to store potentially hazardous food under temperature control,11339
-2024-12-10,THE HILLS,MAROOTA,STONE HOUSE CAFE,1370 WISEMANS FERRY ROAD,660,Fail to ensure copy of the food safety supervisor certificate is kept on the premises and produced for inspection on request by an authorised officer,23091
-2024-12-10,THE HILLS,MAROOTA,STONE HOUSE CAFE,1370 WISEMANS FERRY ROAD,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2024-12-24,BURWOOD,BURWOOD,MR STONEBOWL,122 BURWOOD ROAD,1320,Sale of food that is unsuitable,11323
+2024-12-24,CESSNOCK,CESSNOCK,THE NEXT LEVEL,130 VINCENT STREET,440,Failed to notify appropriate enforcement agency before conducting the food business,11367
+2024-12-24,CITY OF CANADA BAY,CONCORD,MORTLAKE OCEAN FOOD,1 GALE STREET,880,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated",11339
+2024-12-24,CITY OF CANADA BAY,RHODES,MAO PO,"G26, 6-14 WALKER STREET",880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warning given",11339
+2024-12-24,CITY OF CANADA BAY,RHODES,SAHARA GRILL RHODES,SHOP 80/1 RIDER BOULEVARD,880,"Fail to maintain premises, fixtures, fittings, and equipment in a good state of repair and working order having regard to their use - Previous warning given",11339
+2024-12-24,CITY OF PARRAMATTA,DUNDAS,BECCAS BAKERY AND MIXED BUSINESS,14 STATION STREET,440,Fail to take all practicable measures to prevent pests entering the food premises,11338
+2024-12-24,CITY OF SYDNEY,SYDNEY,BROOKLYNN BRIDGE DELI,271-275 KENT STREET,880,Fail to display potentially hazardous food under temperature control - Previous warning given,11339
+2024-12-24,CITY OF SYDNEY,SYDNEY,BROOKLYNN BRIDGE DELI,271-275 KENT STREET,880,Fail to maintain at or near each hand washing facility a supply of - warm running water. Previous warning given,11339
+2024-12-24,CUMBERLAND,REGENTS PARK,JALAL S HALAL BUTCHERY,24 AMY STREET,880,Sale of food found to contain illegal preservative (sulphur dioxide) - in Fine Mince,11341
+2024-12-24,CUMBERLAND,REGENTS PARK,JALAL S HALAL BUTCHERY,24 AMY STREET,880,Sale of food found to contain illegal preservative (sulphur dioxide) - in Coarse Mince,11341
+2024-12-24,NORTH SYDNEY,NORTH SYDNEY,CAFE LA LUCE,"SHOP 3, 60 MILLER STREET",880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2024-12-24,NORTH SYDNEY,NORTH SYDNEY,EAT FUH NORTH SYDNEY,"SHOP 18, 105-153 MILLER STREET",880,Fail to maintain at or near each hand washing facility a supply of - warm running water. Previous warnings given,11339
+2024-12-24,NORTHERN BEACHES,AVALON,OAKBERRY ACAI AT AVALON,21 AVALON PARADE,660,Fail to ensure that at least one food safety supervisor has been appointed for the premises - Previous warnings given,23085
+2024-12-24,NORTHERN BEACHES,BROOKVALE,ROLLD WARRINGAH MALL,"KIOSK 10K03, 145 OLD PITTWATER ROAD",880,Fail to maintain at or near each hand washing facility a supply of - soap. Previous warning given,11339
+2024-12-24,SNOWY MONARO,COOMA,THE LOTT CAFE,177-179 SHARP STREET,880,Fail to store potentially hazardous food under temperature control,11339
+2024-12-24,THE HILLS,NORTH KELLYVILLE,SUMMERLAND POULTRY,63 WITHERS ROAD,440,"Fail to provide for appropriate records to be made and kept demonstrating action taken in relation to, or in compliance with, the food safety program",11338
+2024-12-24,WAVERLEY,BONDI JUNCTION,NUTRITION STATION BONDI JUNCTION,428 OXFORD STREET,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warning given,11339
+2024-12-24,WAVERLEY,BONDI JUNCTION,NUTRITION STATION BONDI JUNCTION,428 OXFORD STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2024-12-24,WILLOUGHBY,CHATSWOOD,WEIZUIZI TIANJIN CUISINE,SHOP 3/88 ARCHER STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
