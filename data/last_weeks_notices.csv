@@ -1,11 +1,23 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2025-01-14,BLUE MOUNTAINS,KATOOMBA,SHAGUN INDIAN RESTAURANT,36 KATOOMBA STREET,440,Fail to maintain the food premises to the required standard of cleanliness,11338
-2025-01-14,BLUE MOUNTAINS,KATOOMBA,SHAGUN INDIAN RESTAURANT,36 KATOOMBA STREET,440,Fail to store food in such a way that it is protected from the likelihood of contamination,11338
-2025-01-14,CANTERBURY-BANKSTOWN,CAMPSIE,DAMEE CHAOWEI RESTAURANT CAMPSIE,"SHOP 1, 234 BEAMISH STREET",880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2025-01-14,CANTERBURY-BANKSTOWN,CAMPSIE,JIN WEI GU FOOD,277 BEAMISH STREET,880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
-2025-01-14,CANTERBURY-BANKSTOWN,CAMPSIE,JIN WEI GU FOOD,277 BEAMISH STREET,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2025-01-14,CANTERBURY-BANKSTOWN,LAKEMBA,GRAND PARADISE SYDNEY,"SHOP 6, 61-67 HALDON STREET",880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
-2025-01-14,NORTH SYDNEY,NEUTRAL BAY,JIES DUMPLING HOUSE,"SHOP 1, 161-163 MILITARY ROAD",880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warnings given,11339
-2025-01-14,NORTHERN BEACHES,MONA VALE,SUSHI WORLD,SHOP 5/10 PARK STREET,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warnings given,11339
-2025-01-14,SNOWY MONARO,COOMA,SNOWY HYDRO VISITORS CENTRE CAFE,1 MONARO HIGHWAY,880,Fail to store potentially hazardous food under temperature control,11339
-2025-01-14,WILLOUGHBY,CHATSWOOD,MANOOSH PIZZERIA CHATSWOOD,17 SMITH STREET,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warnings given,11339
+2025-02-11,BLACKTOWN,BLACKTOWN,DOSA ON WHEELS,20 THIRD AVENUE,440,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11338
+2025-02-11,BLUE MOUNTAINS,KATOOMBA,SHAGUN INDIAN RESTAURANT,36 KATOOMBA STREET,440,Fail to ensure that persons undertaking or supervising food handling operations have skills and knowledge in food safety and food hygiene matters,11338
+2025-02-11,BLUE MOUNTAINS,LEURA,ALEXANDRA HOTEL,62 GREAT WESTERN HIGHWAY,880,Fail to maintain easily accessible hand washing facilities on the food premises - Fail to maintain at or near each hand washing facility a supply of soap and single use towels,11339
+2025-02-11,BLUE MOUNTAINS,LEURA,ALEXANDRA HOTEL,62 GREAT WESTERN HIGHWAY,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2025-02-11,CITY OF PARRAMATTA,CARLINGFORD,HAPPY KITCHEN,G21/ 372 PENNANT HILLS ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2025-02-11,CITY OF PARRAMATTA,DUNDAS,BECCAS BAKERY AND MIXED BUSINESS,14 STATION STREET,440,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11338
+2025-02-11,CITY OF SYDNEY,ULTIMO,DUMPLING NOODLE HOUSE,430 WATTLE STREET,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2025-02-11,INNER WEST,ENMORE,YANGS DUMPLINGS,123 ENMORE ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2025-02-11,INNER WEST,MARRICKVILLE,SUSHI BAR,20 SMIDMORE STREET,880,Fail to store potentially hazardous food under temperature control - Previous warnings given,11339
+2025-02-11,INNER WEST,MARRICKVILLE,SUSHI BAR,20 SMIDMORE STREET,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2025-02-11,NORTH SYDNEY,CAMMERAY,CHARLOTTE CAFE,"SHOP 38, 7-9 ABBOTT STREET",880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
+2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,Fail to take all practicable measures to prevent pests entering the food premises,11339
+2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2025-02-11,PENRITH,JORDAN SPRINGS,XS ESPRESSO,"SHOP 6, 61-63 WATER GUM DRIVE",880,Fail to store potentially hazardous food under temperature control,11339
+2025-02-11,PENRITH,PENRITH,JAMISON BAKERY,"SHOP 9, 92-100 HENRY STREET",440,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11338
+2025-02-11,RANDWICK,KINGSFORD,YUMMY PEPPER HOUSE,317 ANZAC PARADE,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2025-02-11,SNOWY MONARO,COOMA,MEZCALS TEQUILA BAR AND RESTAURANT,116-128 SHARP STREET,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face",11339
+2025-02-11,WAVERLEY,BONDI JUNCTION,VIET SENSES,143 OXFORD STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2025-02-11,WAVERLEY,BONDI JUNCTION,VIET SENSES,143 OXFORD STREET,880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2025-02-11,WILLOUGHBY,CHATSWOOD,GUILIN RICE NOODLE,7/422 VICTORIA AVENUE,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
