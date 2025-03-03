@@ -1,23 +1,41 @@
 published_date,council,suburb,trade_name,address,penalty_amount,offence_circumstances,offence_code
-2025-02-11,BLACKTOWN,BLACKTOWN,DOSA ON WHEELS,20 THIRD AVENUE,440,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11338
-2025-02-11,BLUE MOUNTAINS,KATOOMBA,SHAGUN INDIAN RESTAURANT,36 KATOOMBA STREET,440,Fail to ensure that persons undertaking or supervising food handling operations have skills and knowledge in food safety and food hygiene matters,11338
-2025-02-11,BLUE MOUNTAINS,LEURA,ALEXANDRA HOTEL,62 GREAT WESTERN HIGHWAY,880,Fail to maintain easily accessible hand washing facilities on the food premises - Fail to maintain at or near each hand washing facility a supply of soap and single use towels,11339
-2025-02-11,BLUE MOUNTAINS,LEURA,ALEXANDRA HOTEL,62 GREAT WESTERN HIGHWAY,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2025-02-11,CITY OF PARRAMATTA,CARLINGFORD,HAPPY KITCHEN,G21/ 372 PENNANT HILLS ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2025-02-11,CITY OF PARRAMATTA,DUNDAS,BECCAS BAKERY AND MIXED BUSINESS,14 STATION STREET,440,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11338
-2025-02-11,CITY OF SYDNEY,ULTIMO,DUMPLING NOODLE HOUSE,430 WATTLE STREET,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2025-02-11,INNER WEST,ENMORE,YANGS DUMPLINGS,123 ENMORE ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2025-02-11,INNER WEST,MARRICKVILLE,SUSHI BAR,20 SMIDMORE STREET,880,Fail to store potentially hazardous food under temperature control - Previous warnings given,11339
-2025-02-11,INNER WEST,MARRICKVILLE,SUSHI BAR,20 SMIDMORE STREET,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
-2025-02-11,NORTH SYDNEY,CAMMERAY,CHARLOTTE CAFE,"SHOP 38, 7-9 ABBOTT STREET",880,Fail to display potentially hazardous food under temperature control - Previous warnings given,11339
-2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,Fail to take all practicable measures to prevent pests entering the food premises,11339
-2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
-2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2025-02-11,NORTH SYDNEY,CROWS NEST,JOHNNY BIRD,48 WILLOUGHBY ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness",11339
-2025-02-11,PENRITH,JORDAN SPRINGS,XS ESPRESSO,"SHOP 6, 61-63 WATER GUM DRIVE",880,Fail to store potentially hazardous food under temperature control,11339
-2025-02-11,PENRITH,PENRITH,JAMISON BAKERY,"SHOP 9, 92-100 HENRY STREET",440,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11338
-2025-02-11,RANDWICK,KINGSFORD,YUMMY PEPPER HOUSE,317 ANZAC PARADE,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
-2025-02-11,SNOWY MONARO,COOMA,MEZCALS TEQUILA BAR AND RESTAURANT,116-128 SHARP STREET,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face",11339
-2025-02-11,WAVERLEY,BONDI JUNCTION,VIET SENSES,143 OXFORD STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
-2025-02-11,WAVERLEY,BONDI JUNCTION,VIET SENSES,143 OXFORD STREET,880,Fail to maintain the food premises to the required standard of cleanliness,11339
-2025-02-11,WILLOUGHBY,CHATSWOOD,GUILIN RICE NOODLE,7/422 VICTORIA AVENUE,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition,11339
+2025-02-25,BLACKTOWN,BLACKTOWN,JUGNU TIKKA CORNER,20 THIRD AVENUE,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2025-02-25,BLACKTOWN,EASTERN CREEK,SIR MANONG,159 ROOTY HILL ROAD SOUTH,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness",11339
+2025-02-25,BLACKTOWN,EASTERN CREEK,SIR MANONG,159 ROOTY HILL ROAD SOUTH,880,Fail to store food in such a way that it is protected from the likelihood of contamination,11339
+2025-02-25,BLUE MOUNTAINS,WINMALEE,HOMERS WINMALEE,14-28 WHITE CROSS ROAD,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11339
+2025-02-25,BLUE MOUNTAINS,WINMALEE,HOMERS WINMALEE,14-28 WHITE CROSS ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warning given,11339
+2025-02-25,CITY OF PARRAMATTA,EPPING,SPICES OF INDIA EPPING,54 RAWSON STREET,880,Fail to have facilities for the storage of garbage and recyclable matter that adequately contain and enclose the garbage and recyclable matter - Previous warnings given,11339
+2025-02-25,FAIRFIELD,PRAIRIEWOOD,TERESA S SIOPAO CATERING (FOOD STALL),443 SMITHFIELD ROAD,440,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11338
+2025-02-25,LIVERPOOL,PRESTONS,DOMINO S,"SHOP D1, 1 WROXHAM STREET",880,Fail to maintain the food premises to the required standard of cleanliness,11339
+2025-02-25,NORTH SYDNEY,CROWS NEST,GRILL D,57 WILLOUGHBY ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2025-02-25,NORTH SYDNEY,CROWS NEST,GRILL D,57 WILLOUGHBY ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2025-02-25,NORTH SYDNEY,CROWS NEST,GRILL D,57 WILLOUGHBY ROAD,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2025-02-25,NORTH SYDNEY,CROWS NEST,GRILL D,57 WILLOUGHBY ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2025-02-25,NORTH SYDNEY,CROWS NEST,GRILL D,57 WILLOUGHBY ROAD,880,Fail to maintain at or near each hand washing facility a supply of - warm running water,11339
+2025-02-25,NORTH SYDNEY,CROWS NEST,OSAKA JAPANESE TEPPANYAKI RESTAURANT,"SHOP 4, 38-46 ALBANY STREET",880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
+2025-02-25,NORTHERN BEACHES,AVALON BEACH,CHICK N SHACK CAFE,SHOP 7/1 CAREEL HEAD ROAD,660,Fail to ensure that at least one food safety supervisor has been appointed for the premises - Previous warnings given,23085
+2025-02-25,NORTHERN BEACHES,AVALON BEACH,CHICK N SHACK CAFE,SHOP 7/1 CAREEL HEAD ROAD,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2025-02-25,NORTHERN BEACHES,AVALON BEACH,CHICK N SHACK CAFE,SHOP 7/1 CAREEL HEAD ROAD,880,Fail to maintain at or near each hand washing facility a supply of - warm running water,11339
+2025-02-25,NORTHERN BEACHES,AVALON BEACH,CHICK N SHACK CAFE,SHOP 7/1 CAREEL HEAD ROAD,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests - Previous warnings given,11339
+2025-02-25,NORTHERN BEACHES,AVALON BEACH,CHICK N SHACK CAFE,SHOP 7/1 CAREEL HEAD ROAD,880,"Fail to ensure sufficient natural or mechanical ventilation to effectively remove fumes, smoke, steam and vapours from the food premises - Previous warnings given",11339
+2025-02-25,NORTHERN BEACHES,MONA VALE,"SUSHI HOUSE, MONA VALE",SHOP 6/9 BUNGAN STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warning given,11339
+2025-02-25,NORTHERN BEACHES,NEWPORT,COCOA BAR NEWPORT,1/366-368 BARRENJOEY ROAD,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2025-02-25,NORTHERN BEACHES,TERREY HILLS,TERREY HILLS CHINESE RESTAURANT,19 YULONG AVENUE,440,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11338
+2025-02-25,NORTHERN BEACHES,WARRIEWOOD,KAORI BENTO WARRIEWOOD,12 JACKSONS ROAD,880,Fail to maintain at or near each hand washing facility a supply of - soap,11339
+2025-02-25,NORTHERN BEACHES,WARRIEWOOD,KAORI BENTO WARRIEWOOD,12 JACKSONS ROAD,880,Fail to display potentially hazardous food under temperature control - Previous warning given,11339
+2025-02-25,SHELLHARBOUR,SHELLHARBOUR CITY CENTRE,COFFEE EMPORIUM,"KIOSK 103, 211 LAKE ENTRANCE ROAD",660,Fail to ensure copy of the food safety supervisor certificate is kept on the premises and produced for inspection on request by an authorised officer - Previous warnings given,23085
+2025-02-25,SHOALHAVEN,BERRY,INDIKA THE HOUSE OF TANDOOR,2/89 QUEEN STREET,880,Fail to maintain the food premises to the required standard of cleanliness - Previous warnings given,11339
+2025-02-25,SHOALHAVEN,BERRY,INDIKA THE HOUSE OF TANDOOR,2/89 QUEEN STREET,880,"Fail to maintain all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2025-02-25,SHOALHAVEN,BERRY,INDIKA THE HOUSE OF TANDOOR,2/89 QUEEN STREET,880,Fail to maintain at or near each hand washing facility a supply of - soap or single use towels. Previous warnings given,11339
+2025-02-25,SHOALHAVEN,BERRY,INDIKA THE HOUSE OF TANDOOR,2/89 QUEEN STREET,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2025-02-25,THE HILLS,ROUSE HILL,COSTI S CATCH (ROUSE HILL),1-17 MAIN STREET,880,"Fail to ensure fixtures, fittings and equipment that are designed to be connected to a sewage and waste water disposal system are connected",11339
+2025-02-25,THE HILLS,ROUSE HILL,COSTI S CATCH (ROUSE HILL),1-17 MAIN STREET,880,"Fail to ensure hand washing facilities are only used for the washing of hands, arms and face",11339
+2025-02-25,TWEED,TWEED HEADS SOUTH,MAD MEX FRESH MEXICAN GRILL PTY LTD,38 MINJUNBAL DRIVE,880,Fail to take all practicable measures to eradicate and prevent the harbourage of pests,11339
+2025-02-25,WAVERLEY,BONDI BEACH,LITTLE L CHICKEN BURGERS,"SHOP 1, 37 CAMPBELL PARADE",880,Fail to maintain at or near each hand washing facility a supply of - warm running water. Previous warnings given,11339
+2025-02-25,WAVERLEY,BONDI JUNCTION,SAVTA CAFE,"SHOP 5, 4-12 WAVERLEY STREET",880,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated",11339
+2025-02-25,WILLOUGHBY,CHATSWOOD,SEOCHO-DONG,SHOP 2/465 VICTORIA AVENUE,880,Fail to ensure that persons undertaking or supervising food handling operations have skills and knowledge in food safety and food hygiene matters - Previous warnings given,11339
+2025-02-25,WILLOUGHBY,CHATSWOOD,SEOCHO-DONG,SHOP 2/465 VICTORIA AVENUE,880,Fail to store food in such a way that it is protected from the likelihood of contamination - Previous warnings given,11339
+2025-02-25,WILLOUGHBY,CHATSWOOD,SEOCHO-DONG,SHOP 2/465 VICTORIA AVENUE,880,"Fail to, when processing food, take all necessary steps to prevent the likelihood of food being contaminated - Previous warnings given",11339
+2025-02-25,WILLOUGHBY,CHATSWOOD,SEOCHO-DONG,SHOP 2/465 VICTORIA AVENUE,880,Fail to maintain easily accessible hand washing facilities on the food premises - Previous warnings given,11339
+2025-02-25,WILLOUGHBY,CHATSWOOD,SEOCHO-DONG,SHOP 2/465 VICTORIA AVENUE,880,"Fail to maintain the food premises and all fixtures, fittings and equipment to the required standard of cleanliness - Previous warnings given",11339
+2025-02-25,WILLOUGHBY,CHATSWOOD,SEOCHO-DONG,SHOP 2/465 VICTORIA AVENUE,880,Fail to ensure food contact surfaces of equipment is in a clean and sanitary condition - Previous warnings given,11339
